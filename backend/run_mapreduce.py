@@ -3,20 +3,30 @@ import subprocess
 def run_mapreduce():
     print("Starting MapReduce job...")
 
-    hadoop_cmd = [
-        "wsl", "hadoop", "jar", "/usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar",
-        "-input", "/resume_data",
-        "-output", "/resume_output",
-        "-mapper", "mapper.py",
-        "-reducer", "reducer.py",
-        "-file", "backend/mapper.py",
-        "-file", "backend/reducer.py"
-    ]
+    jar_path = '/home/hadoop/hadoop-3.3.6/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar'
 
     # Remove output directory if it already exists
-    subprocess.run(["wsl", "hdfs", "dfs", "-rm", "-r", "/resume_output"], stderr=subprocess.DEVNULL)
+    subprocess.run([
+        "wsl", "bash", "-c", 
+        "sudo -u hadoop hdfs dfs -rm -r /resume_output"
+    ], stderr=subprocess.DEVNULL)
 
-    result = subprocess.run(hadoop_cmd, capture_output=True, text=True)
+    # Run MapReduce job
+    mapreduce_command = (
+        'sudo -u hadoop bash -c "hadoop jar /home/hadoop/hadoop-3.3.6/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar  '
+        '-input /resume_data '
+        '-output /resume_output '
+        '-mapper mapper.py '
+        '-reducer reducer.py '
+        '-file backend/mapper.py '
+        '-file backend/reducer.py"'
+    )
+
+    result = subprocess.run(
+        ["wsl", "bash", "-c", mapreduce_command],
+        capture_output=True,
+        text=True
+    )
 
     if result.returncode == 0:
         print("MapReduce job completed successfully!")
