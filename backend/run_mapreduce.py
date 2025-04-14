@@ -13,13 +13,13 @@ def run_mapreduce():
 
     # Run MapReduce job
     mapreduce_command = (
-        'sudo -u hadoop bash -c "hadoop jar /home/hadoop/hadoop-3.3.6/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar  '
-        '-input /resume_data '
+        'sudo -u hadoop bash -c "/home/hadoop/hadoop-3.3.6/bin/hadoop jar /home/hadoop/hadoop-3.3.6/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar  '
+        '-input /resume_project/input/text_resumes '
         '-output /resume_output '
-        '-mapper mapper.py '
-        '-reducer reducer.py '
-        '-file backend/mapper.py '
-        '-file backend/reducer.py"'
+        '-mapper \\"python3 mapper.py\\" '
+        '-reducer \\"python3 reducer.py\\" '
+        '-file /mnt/e/HadoopScripts/ResumeAnalyzer/mapper.py '
+        '-file /mnt/e/HadoopScripts/ResumeAnalyzer/reducer.py"'
     )
 
     result = subprocess.run(
