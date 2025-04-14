@@ -8,7 +8,7 @@ def run_mapreduce():
     # Remove output directory if it already exists
     subprocess.run([
         "wsl", "bash", "-c", 
-        "sudo -u hadoop hdfs dfs -rm -r /resume_output"
+        "sudo -u hadoop /home/hadoop/hadoop-3.3.6/bin/hdfs dfs -rm -r /resume_output"
     ], stderr=subprocess.DEVNULL)
 
     # Run MapReduce job
