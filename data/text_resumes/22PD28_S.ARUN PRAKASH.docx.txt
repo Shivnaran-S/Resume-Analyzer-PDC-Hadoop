@@ -1,0 +1,561 @@
+ 
+S ARUN PRAKASH 
+22PD28 
+Gender                   Date of Birth              Languag es known Email Mobile   Github Linkedin Male 
+21st
+ 
+July
+ 
+2004
+ English, Tamil 22pd28@p sgtech.ac.in +91-9943922380 Arun Prakash | Github Arun Prakash | LinkedIn
+   Addr ess Flat-G, 2nd floor , Bhar athi Castle,  
+33/3,
+ 
+Bhar athidasan
+ 
+Colon y,
+ 
+K.K
+ 
+Nagar,
+ 
+Chennai-600078. 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as an intern for a period of six mon ths from May 2025 to 
+November
+ 
+2025.
+ 
+ 
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es C++, C, Python, SQL, Java  
+Platforms Windo ws,Ubun tu 
+ 
+ 
+Tools
+ 
+and
+ 
+Technologies
+ Vim, MS Excel,Nump y,Pandas,Scikit -learn,P owerBI 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy sis
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+●
+ 
+Super vised
+ 
+Learning
+  
+ ACADEMIC RECORD                                                                                                        
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 7.24 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+Secondar y,CBSE)
+ ABSM, Puducherr y 
+2022
+ 88.60 % 
+●
+ 
+X
+ 
+(CBSE)
+ ABSM, Puducherr y 
+2020
+ 88.60 %         
+      
+ 
+
+ 
+NON-A CADEMIC PROJECTS                                                                                                       
+●
+ E-Pharmacy  Developed a pharmacy manag emen t system with MySQL for back end and pack ed it with 
+streamlit
+ 
+(frontend)
+ 
+as
+ 
+a
+ 
+web
+ 
+applic ation.
+ 
+It
+ 
+simula tes
+ 
+both
+ 
+user -side
+ 
+and
+ 
+dealer -side
+ 
+&
+ 
+all
+ 
+necessar y
+ 
+functionalities
+ 
+are
+ 
+implemen ted.
+  
+●
+ Handwrit ten Digit Recognition Implemen ted a handwrit ten digit recognition System in Python using the MNIS T dataset.  
+The
+ 
+recognition
+ 
+system
+ 
+uses
+ 
+Keras
+ 
+library
+ 
+to
+ 
+implemen t
+ 
+machine
+ 
+learning
+ 
+techniques
+ 
+to
+ 
+learning
+ 
+and
+ 
+predicting
+ 
+handwrit ten
+ 
+alphabe ts.
+ 
+ ACADEMIC PROJECTS                                                                                                                                                            
+  
+●
+ Optimiz ed Inventory Flow Developed an inventory manag emen t system using C++ leveraging the Branch and Bound    
+algorithm
+ 
+to
+ 
+optimiz e
+ 
+job
+ 
+scheduling
+ 
+under
+ 
+predefined
+ 
+constraints,
+ 
+ensuring
+ 
+efficiency
+ 
+and
+    
+accur acy
+ 
+in
+ 
+task
+ 
+alloc ation.
+  
+●
+ Action-Rule Mining Implemen ted action rule mining on a credit-appr oval dataset in Python using the DEAR2 
+algorithm.
+ 
+Used
+ 
+confidence,
+ 
+lift,
+ 
+and
+ 
+support
+ 
+for
+ 
+evalua ting
+ 
+the
+ 
+actionable
+ 
+rules
+ 
+to
+ 
+enhance
+ 
+decision-making
+ 
+and
+ 
+optimiz e
+ 
+appr oval
+ 
+processes.
+  
+●
+ Salp-S warm algorithm (ML) 
+A
+ 
+resear ch
+ 
+paper
+ 
+implemen tation
+ 
+of
+ 
+the
+ 
+salp-s warm
+ 
+algorithm,
+ 
+used
+ 
+for
+ 
+optimal
+ 
+feature-selection.
+ 
+We
+ 
+tested
+ 
+it
+ 
+on
+ 
+credit-card
+ 
+appr oval
+ 
+dataset.
+ 
+Models
+ 
+used:
+   
+SVM,
+ 
+Logis ticRegression,
+ 
+RandomF orestClassifier
+ 
+and
+ 
+comparison
+ 
+of
+ 
+accur acies
+ 
+of
+ 
+the
+ 
+different
+ 
+models.
+  
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+ 
+●
+ 
+Attained
+ 
+50-da ys
+ 
+LeetCode
+ 
+badg e.
+ 
+●
+ 
+Finalis t
+ 
+for
+ 
+CodeXplor e
+ 
+conduct ed
+ 
+by
+ 
+PSG
+ 
+Coding
+ 
+club.
+ 
+●
+ 
+Contribut or
+ 
+for
+ 
+both
+ 
+Datathon
+ 
+&
+ 
+DataQues t
+ 
+(Data-Science
+ 
+events).
+ 
+●
+ 
+Represen ted
+ 
+the
+ 
+school
+ 
+as
+ 
+a
+ 
+scout
+ 
+in
+ 
+CTC
+ 
+Mar ch-pas t
+ 
+parade
+ 
+for
+ 
+2
+ 
+years.
+ 
+●
+ 
+Avid
+ 
+badmin ton
+ 
+player
+ 
+and
+ 
+calisthenics
+ 
+athlete
+.
+ 
+●
+ 
+Comple ted
+ 
+theor y
+ 
+examina tions
+ 
+for
+ 
+E-Keyboar d
+ 
+conduct ed
+ 
+by
+ 
+Trinity
+ 
+school
+ 
+of
+ 
+music.
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+S.Arun
+ 
+Prakash,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ 
+the
+ 
+best
+ 
+of
+ 
+my
+ 
+knowledg e.
+  Place: Coimba tore   
+Date
+  
+:
+  
+18/01/2025
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+       
+(S.Arun
+ 
+Prakash)
+ 

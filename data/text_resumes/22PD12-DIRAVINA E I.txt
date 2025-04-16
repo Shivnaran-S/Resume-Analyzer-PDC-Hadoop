@@ -1,0 +1,551 @@
+DIRAVINA E I 
+22PD12 
+Gender                   Date of Birth              Languag es known Email Mobile  GitHub LinkedIn Female 
+30th
+ 
+December
+ 
+2004
+ English, Tamil, Hindi 22pd12@p sgtech.ac.in +91-86674-81064 DIRA VINA diravinaei  
+Addr ess
+ 28, Balu Garden, Shoba Nagar Road, Avarampala yam, Coimba tore, Tamil Nadu-641006. 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern for a period of six mon ths from May 
+2025
+ 
+to
+ 
+November
+ 
+2025.
+ 
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+ 
+Languag es C++, Python, SQL, C 
+ 
+ 
+Libraries
+ 
+&
+ 
+Frame work
+ Djang o, NetworkX, Scikit -learn, TensorFlo w, Pandas, BeautifulSoup 
+ 
+ 
+Tools
+ Power BI, Gephi, Git, R 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Super vised
+ 
+&
+ 
+Unsuper vised
+ 
+Learning
+ 
+ 
+●
+ 
+Database
+ 
+Manag emen t
+ 
+Systems
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+and
+ 
+Algorithms
+ 
+ 
+●
+ 
+Data
+ 
+&
+ 
+Business
+ 
+Analy tics
+ 
+ 
+ ACADEMIC RECORD                                                                                                        
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 8.13 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+CBSE)
+ PSG Public Schools, Coimba tore 
+2022
+ 90.40 % 
+●
+ 
+X
+ 
+(CBSE)
+ PSG Public Schools, Coimba tore 
+2020
+ 94.80 % 
+INDUS TRY BASED PROJECT EXPERIENCE                                                                                                      
+ 
+ 
+●
+ 
+Axic om
+ 
+IT
+ 
+LPP
+ 
+|
+ 
+Data
+ 
+And
+ 
+Business
+ 
+Intelligence
+ 
+Intern
+                   
+(
+May
+ 
+2
+nd
+-June
+ 
+29
+th
+ 
+2024)
+ 
+ 
+Developed
+ 
+an
+ 
+Pigeon
+ 
+-
+ 
+Rack
+ 
+System,
+ 
+with
+ 
+an
+ 
+automa ted
+ 
+alloc ation
+ 
+system
+ 
+using
+ 
+Power
+ 
+Apps
+ 
+embedded
+ 
+within
+ 
+Power
+ 
+BI
+.
+ 
+The
+ 
+system
+ 
+utiliz es
+ 
+barcode
+ 
+scanning
+ 
+to
+ 
+iden tify
+ 
+IDs
+ 
+and
+ 
+dynamic ally
+ 
+alloc ate
+ 
+storage
+ 
+locations.
+ 
+Through
+ 
+real-time
+ 
+data-driv en
+ 
+logic,
+ 
+the
+ 
+system
+ 
+optimiz es
+ 
+inventory
+ 
+manag emen t
+ 
+by
+ 
+accur ately
+ 
+and
+ 
+efficien tly
+ 
+assigning
+ 
+racks
+ 
+and
+ 
+columns
+ 
+based
+ 
+on
+ 
+scanned
+ 
+IDs.
+ 
+ 
+
+NON-A CADEMIC
+ 
+PROJECTS
+ 
+ 
+●
+ Magne tRx - Pain Relief Analy sis
+ 
+Using R, Pain manag emen t is analy zed using activ e versus placebo magne ts, with statistical methods including hypothesis testing (t-tests) and linear regression models to 
+evalua te
+ 
+effectiv eness
+ 
+and
+ 
+iden tify
+ 
+signific ant
+ 
+differences
+ 
+in
+ 
+pain
+ 
+ratings.
+ 
+●
+ FiscalVis ta - Banking Insigh ts 
+Designed an advanced, interactiv e Power BI dashboar d integrating multi-dimensional analy sis of banking metrics, including granular clien t segmen tation, deposit beha vior trends, and loan portf olio performance. Leveraged DAX functions, data modeling , and dynamic visualiz ations in banking oper ations. 
+●
+ ProPathMas ter - Project Manag emen t
+ 
+Implemen ted in C++, This applic ation leverages the Critic al Path Method (CPM) for project scheduling. User s input activity details, dependencies, and durations to calcula te key scheduling parame ters and iden tify the critic al path for optimiz ed project manag emen t. 
+ACADEMIC PROJECTS                                                                                                                                                       
+●
+ TwinNe t - MammoDe tect
+ 
+Designed a mammogr am classific ation system using Siamese neur al networks with optimiz ation through data augmen tation, oversampling , and hyperpar ame ter tuning. Integrated a Streamlit -based GUI for interactiv e diagnosis and emplo yed early stopping to enhance accur acy by 5% and prevent overfit ting.   
+●
+ SignBridg e - Real Time Gesture Recognition
+ 
+Designed a real-time sign languag e recognition system leveraging Histogram of Orien ted Gradien ts (HOG) features with SVM and KNN classifier s. Enhanced accur acy through feature scaling , and hyperpar ame ter tuning , integrating live video prediction and a user -friendly GUI for seamless communic ation. Optimiz ed the system for real-time performance, supporting sign languag e communic ation.  
+●
+ BloomFind - Sear ch Engine
+ 
+Developed a text sear ch engine using a Bloom filter for fast and space-e fficien t look ups with controlled false-positiv e probability . Calcula ted true/f alse positiv es and negatives to evalua te and optimiz e the filter's reliability , ensuring accur ate text sear ch. Results were valida ted with binar y sear ch, leveraging SHA256 (hashes) for reliable data handling.
+ 
+ 
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+  
+●
+ 
+Success fully
+ 
+comple ted
+ 
+a
+ 
+Full-St ack
+ 
+Web
+ 
+Developmen t
+ 
+course
+ 
+on
+ 
+Udem y
+ 
+●
+ 
+An
+ 
+activ e
+ 
+member
+ 
+of
+ 
+the
+ 
+National
+ 
+Service
+ 
+Scheme
+ 
+(NSS),
+ 
+contributing
+ 
+to
+ 
+various
+ 
+social
+ service activities focused on community welfare and developmen t.                                                                  
+●
+ 
+As
+ 
+a
+ 
+member
+ 
+of
+ 
+the
+ 
+Spic
+ 
+Mac ay
+ 
+Herit age
+ 
+Club
+,
+ 
+my
+ 
+participa tion
+ 
+focuses
+ 
+on
+ 
+promoting
+ India's rich cultur al herit age through workshop s, performances, and awareness programs.                         
+●
+ 
+Proficien t
+ 
+Bhar atanatyam
+ 
+Dancer
+ 
+and
+ 
+skilled
+ 
+Carna tic
+ 
+Sing er
+ 
+with
+ 
+extensiv e
+ 
+training
+ 
+and
+ performance experience.
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+DIRA VINA
+ 
+E
+ 
+I,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ the best of my knowledg e.  Place: Coimba tore   
+Date
+ 
+:
+ 
+18/01/2025
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+       
+(DIRA VINA
+ 
+E
+ 
+I)
+ 

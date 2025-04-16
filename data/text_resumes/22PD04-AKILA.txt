@@ -1,0 +1,36 @@
+AKILAR22PD04
+GenderFemaleDateofBirth08thAugus t2004Languag esknownEnglish,TamilEmail22pd04@p sgtech.ac.inMobile+91-7397067748Githubgithub.c om/ akila-08LinkedInlink edin.c om/in/ akila-r -aug08/
+Address18/49,TagoreNagar,Coimba tore-641016.
+OBJECTIVE
+Toobtainapositionasaninternforaperiodofsixmon thsfromMay2025toNovember2025.
+ACADEMICQUALIFICATION
+Curr entlypursuing3rdyearof5yearIntegratedM.Sc.DataScienceattheDepartmen tofAppliedMathema ticsandComput ationalSciencesatPSGColleg eofTechnology .
+SKILLSET
+Languag esC++,Python,C
+ Librariesandframe workFlask,Streamlit
+ ToolGephi
+AREASOFINTEREST
+●Super visedlearning
+●DataStructur es
+●DataAnaly ticsandVisualiz ation
+ACADEMICRECORD
+●M.ScDataSciencePSGColleg eofTechnology ,Coimba tore2022-Presen t8.3CGPA
+●XII(Highersecondary,Stateboard)Bhar athiMatric.Hr.SecSchool,Coimba tore202296.5%
+●X(SSLC,Stateboard)Bhar athiMatric.Hr.SecSchool,Coimba tore202090.2%
+
+NON-ACADEMICPROJECTS
+●CashFlo wMinimiser
+Thisprojectisanadvanceddatastructur eprojectthataddr essestheoptimiz ationofcashflowwithinagroupofindividualsorentities.Itaimstodeveloparobus tsoftw areapplic ationtoefficien tlyminimisethenetcashflowamongparticipan tsinafinancialnetworkusinggraphdatastructure.
+ACADEMICPROJECTS
+●T amil-E
+Developedasystemfortranslit eratingTamilBrahmiscrip ttomodernTamilusingConvolutionalNeuralNetworks(CNNs).Segmen tedtheinputimag eintoindividualchar acterswhichwerethenprocessedbytheCNNmodeltopredictthemodern T amil t ext.
+●EmailSpamDe t ection
+Developedaprivacy-preser vingemailspamdetectionsystemusingFederatedLearningtotrainmodelsacrossdecen tralizeddatasour ceswithoutsharingrawdata.Implemen tedNaturalLanguag eProcessingtechniquesforfeatureextractionandclassific ation.Enhanceddataprivacyandscalabilityindetectingspamsacrossdiverseuserenvironmen ts.
+●Gr ocerE ase
+Developedanonlinegrocer yshoppingplatformenablinguser stobrowseandpurchasegroceriesconvenien tlyfromhome.BuiltwithFlaskandPostgreSQLforback endfunctionalityandacleaninterfacedesignedusingHTMLandCSS.Keyfeaturesincludeuserauthen tication,productbrowsing,cartmanag emen t,andanadminsystem.
+EXTRA-CURRICULARACTIVITIESANDACHIEVEMENT S
+●Secur edRunneruppositioninNationalFistballchampionshipheldatPunjab.
+●ServedasCaptainoftheschoolVolleyballTeamfor3years,leadingtheteaminzonalanddistrict-levelcompe titions.
+●WontheHandballChampionshiptrophyattheDepartmen t-LevelLeague.
+DECLARATIONI,AkilaR,doherebyconfirmthattheinforma tiongivenaboveistruetothebestofmyknowledg e.
+Place:Coimba toreDate:20/11/2024(AkilaR)

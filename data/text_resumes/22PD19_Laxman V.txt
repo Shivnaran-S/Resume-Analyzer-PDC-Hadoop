@@ -1,0 +1,104 @@
+LAXMAN V  
+22PD 19 
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile   
+GitHub  
+LinkedIn  Male  
+14th March 2005  
+English, Tamil , Saurashtra   
+22pd 19@psgtech.ac.in  
++91-74182 -23637 
+Github.com/Laxman_V  
+linkedin.com/Laxman_V                   
+ Address  
+68/26, Kulandai Velan Street, Main Road, Dindigul,  
+Tamil Nadu . 
+ 
+ 
+OBJECTIVE                                                                                                                        
+To obtain a position as an intern for a period of six months from May 2025 to 
+November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 -year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences in PSG College of Technology , 
+Coimbatore.  
+ 
+SKILL  SET  
+ 
+Languages  Python, C++, C, Java, SQL  
+Libraries and Frameworks  scikit -learn, TensorFlow, Numpy, Pandas,  Flask , Django  
+Tools  Git, Power BI, Gephi  
+ 
+AREAS  OF INTEREST  
+● Data  Analytics  and Visualisation  
+● Data Structures and Algorithms  ● Supervised and Unsupervised Learning  
+ 
+ 
+ACADEMIC  RECORD                                                                                                          
+ 
+● M.Sc. Data Science  
+PSG College of Technology, Coimbatore      2022 - 2027  
+7.97 CGPA  
+● XII (C BSE) 
+Achyuta Public School, Dindigul  2022  
+95.20 % 
+● X (CBSE) 
+SSM Academy CBSE, Dindigul  2020  
+94.20 %  
+ 
+INDUSTRY  BASED  PROJECT  EXPERIENCE                                                                                                        
+ 
+● Learner Circle | Student Intern              
+(May 2024 - June 2024)  
+Developed a tool using Random Forest models based on Howard Gardner's Theory of 
+Multiple Intelligences to identify children's strengths in areas like linguistic and logical -
+mathematical intelligence, supporting personalized learning strategies . 
+
+NON -ACADEMIC  PROJECTS                                                                                                                                                              
+ 
+● Voice O Vision Assist  Developed  Voice Over Vision Assistant for visually challenged, 
+designed with Flask  as its backbone integrates Whisper, LLaMA 3, Gemini  models to process 
+user queries in the form of voice commands, webcam -captured images or screenshots and 
+responds through voice.  
+ 
+● Pixel Racer  Created a dynamic car game in C++ featuring core gameplay mechanics and 
+user interaction functionalities. Implemented using fundamental C++ concepts, the project 
+showcases proficiency in algorithmic problem -solving and software design.  
+ 
+ACADEMIC  PROJECTS                                                                                                               
+ 
+● Golden Time Machine  Developed an end -to-end time series forecasting project using 
+Streamlit  for the user interface. This Time Learning Machine takes us from past and 
+current gold prices to future gold prices via ARIMA , LSTM  and Prophet  models. Gold 
+prices in Coimbatore from August 2021 to October 2024 were web -scraped using 
+BeautifulSoup for forecasting.  
+ 
+● Medi -Vault  Successfully developed a comprehensive pharmacy management system using 
+Tkint er for the graphical user interface and Oracle SQL for database management. This 
+project  offers essential functionalities for adding, deleting, searching, and updating 
+medication records, providing a robust solution to streamline pharmacy operations and 
+enhance efficiency in pharmaceutical services.  
+ 
+● EGO Networks  Developed a project on ego networks and community detection to analyze 
+social structures and identify communities. Focused on studying relationships within 
+networks and uncovering community patterns, providing valuable insights into connectivity 
+and group dynamics.  
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                      
+ 
+● Completed all eight levels of Abacus training . 
+● Developed proficiency in solving Rubik's Cube puzzles (3x3, 4x4, 5x5, 2x2, Mirror Cube, 
+Snake Cube), with a personal best of under 45 seconds for the 3x3 . 
+ 
+DECLARATION   
+                                                                
+ I, Laxman V , do hereby confirm that the information given above is true to the 
+best of my knowledge.  
+ 
+ 
+Place: Coimbatore                                                                                                 
+Date: 21/11/2024         Laxman V  

@@ -1,0 +1,106 @@
+HARSHAN M V  
+22PD14  
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile   
+GitHub  
+LinkedIn  Male  
+07th October 2004  
+English, Tamil, Hindi, Telugu  
+harshanmv04@gmail.com  
+9486802376  
+Harshan M V  
+Harshan  M V 
+ Address  
+Willow 1 -C, Mayflower Estates,  
+Uzhaippalar Street, Vellakinar Village,  
+Coimbatore, Tamil Nadu - 641029.  
+ 
+ 
+OBJECTIVE                                                                                                                        
+To obtain a position as an intern for a period of six months from May 2025 to 
+November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+SKILL  SET  
+ 
+Languages  Python, C++, Oracle SQL  
+Libraries  NumPy , Matplotlib , Flask  
+Tools  Oracle , Power BI, Spyder , Figma  
+ 
+AREAS  OF INTEREST  
+● Supervised Machine Learning  
+● Data Visualization and analytics  ● Computational Biology  
+ 
+ 
+ACADEMIC  RECORD                                                                                                          
+ 
+● M.Sc . Data Science   
+PSG College of Technology, Coimbatore      2022 -2027  
+8.43 CGPA  
+● XII (Higher secondary, CBSE)  
+Emerald Valley Public School, Salem  2022  
+90.17 %  
+● X (SSLC, CBSE)  
+Emerald Valley Public School, Salem  2020  
+     89 %  
+
+INDUSTRY -BASED  PROJECT  EXPERIENCE  
+● Cloud Desk  | Data Science Intern         (May 15, 2024 to June 15, 2024)  
+Took up the position of a data science summer intern at Cloud Desk, Chennai. Had Gained 
+valuable insights on project management and collaborative workflow in the corporate 
+environment.  Furthermore, I had worked with technologies of Power BI and Oracle SQL.  
+Designed an interactive power BI report for the company.  
+ 
+NON -ACADEMIC  PROJECTS   
+       
+● Cure for Monkeypox through Biotechnological Methods  (Research)  
+Currently doing research to find the cure for monkeypox virus using various biological and 
+computational  techniques.  Makes use of several databases like Swiss Target prediction, 
+DDBJ, NCBI etcetera.  Mathematical concepts including but not limited to graph theory was 
+implemented for the aforementioned. The end result is to form a graph having 
+interactions wit h various genes and to find the most influential gene for the 
+phytochemical s to act upon. The biological plant chosen is Tinospora Cordifolia.  
+ 
+ACADEMIC  PROJECTS                                                                                                                                                              
+ 
+● Quantum Computing  
+Analyzed the means to encode the information using qubit s of the quantum circuits by 
+leveraging the modules provided in the IBM’s qiskit library . The image compression was 
+done by passing the qubits inside the encoding quantum circuit  via bottleneck layer . Cost 
+function was calculated using the swap test and the qiskit.quantum_info’s  Stat evector  
+was used for the virtual quantum interface.  
+● Resource Constrained Project Scheduling problem  
+The problem was solved using dynamic programming  where a completion of a project 
+involves completing a group of tasks. The probability of task completion is taken in the 
+form as a transition probability matrix. We exhaustively search all possibilities to find the 
+sequence of task that has to be completed to minimize the co st, thus modelling it as an 
+optimization problem . 
+● Weather Forecasting Application  
+Developed a  weather system where HTML, CSS, JavaScript , was used along with Python 
+Tkinter  thus implementing a hybrid model for the front -end and implementing web 
+scraping  concept in python to get live weather data from an external website. The hybrid 
+model was created using python Flask.  
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                      
+ 
+● Participated and won a variety of MUNs. The founder of GDMUN, an organization aimed 
+to make people aware of United Nations.  
+● Furthermore, I have participated in and won several debate competitions.  
+● Was selected as the judge at IIMUN, and backed a sponsored trip to attend the conference.  
+● RJ at the PSG Community Radio 107.8 and was awarded “The Foreign Descent” for my 
+English Proficiency.  
+● Elected as the class representative for the academic year 2022.     
+         
+DECLARATION   
+                                                                
+ I, Harshan M V, do hereby confirm that the information given above is true to the 
+best of my knowledge.  
+ 
+Place: Coimbatore                                                                                                             
+Date : 31/08/2024                    (Harshan M V)  

@@ -1,0 +1,95 @@
+SARNIKA SANJIV KUMAR  
+22PD31  
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile  
+GitHub  
+LinkedIn  Female  
+15th July 2004  
+English, Tamil  
+22pd31@psgtech.ac.in  
++91-99445 22244  
+github.com/sarnikaa   
+linkedin.com/in/sarnika -sanjiv -75a604290/   
+ Address  
+632/2, Anaipalayam, Sirupooluvapatti Post,  
+Tirupur - 641603.  
+ 
+OBJECTIVE                                                                                                                        
+To obtain a position as a student intern from May 2025 to November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+SKILL  SET  
+ 
+Languages   Python, C++ ,Java , SQL  
+Libraries and Frameworks  NetworkX, Scikit -learn  
+Tools  PowerBI, Gephi  
+ 
+AREAS  OF INTEREST  
+● Data Analytics and Visualization  
+● Business Analytics  ● Supervised and Unsupervised Learning  
+ 
+ACADEMIC  RECORD                                                                                                          
+● M.Sc Data Science  
+PSG College of Technology,  
+Coimbatore      2022 -2027  
+7.16 CGPA  
+● XII (Higher secondary, ISC)  
+Nazareth Convent High School and Junior College,  
+Udhagamandalam  2022  
+ 89.6 %  
+● X (ICSE)  
+Nazareth Convent High School and Junior College,  
+Udhagamandalam  2020  
+88.2 %  
+NON -ACADEMIC  PROJECTS                                                                                                                                                              
+● Breast Cancer Detection Using Siamese Neural Networks  
+Developed a breast cancer detection system using a Siamese neural network  to classify 
+mammograms. Optimized performance with data augmentation, oversampling, and 
+hyperparameter tuning . Implemented early stopping and model checkpointing to improve 
+accuracy and prevent overfitting.  
+ 
+
+● Cipheart - Heart Disease Classification with Homomorphic Encryption  
+This project utilizes machine learning combined with homomorphic encryption  using the 
+CKKS scheme  to build a privacy -preserving application for heart disease classification. The 
+TenSEAL library  ensures secure data encryption, while classification is performed using 
+Logistic Regression and Naive Bayes  models. The application is deployed through an 
+interactive Streamlit GUI.  
+● Pyramid Scheme Finance Flow Network Based on Social Network Analysis  
+Built a directed graph analysis pipeline in Python with NetworkX to model hierarchical 
+financial structures. Applied Motif detection and ERGM  to uncover micro -level patterns 
+and connection trends. Designed interactive visualizations with PyVis and Matplotlib , 
+extracting insights on operational efficiency and risk management.  
+ACADEMIC  PROJECTS                                                                                                                                                              
+● Sudoku  
+This C++ program implements a Sudoku puzzle generator, solver, and player using a 
+backtracking algorithm . It generates random Sudoku grids, ensures unique solutions, and 
+provides a command -line interface for users  to solve puzzles, check rules, or view solutions. 
+The program also includes validation to guide players during gameplay.  
+● Ant Colony Optimization  
+This implementation of Ant Colony Optimization (ACO) uses Tkinter  for a GUI, NetworkX  
+for graph visualization, and mathematical computations to solve the traveling salesperson 
+problem. It initializes cities, distances, and pheromones, simulates ant tours, updates 
+pheromones iteratively.  
+● F1 Voting System  
+An F1 Driver of the Day Voting system project using  socket programming with the TCP 
+protocol . Implementation of a multi -threaded voting server  using Python's socket and 
+threading libraries. It listens for incoming connections, authenticates voters, processes 
+votes, and uses locks to manage concurrent access to shared resources.  
+EXTRA -CURRICULARS  AND  ACHIEVEMENTS                                                                                                                                                              
+● Participant in ACM India -Summer School 2024 on Compilers for AI / ML Programs.  
+● Captain of the Basketball Team.  
+● Deputy Games Captain at school (2019 -2020).  
+ 
+DECLARATION                           
+ I, Sarnika Sanjiv Kumar, do hereby confirm that the information given above is 
+true to the best of my knowledge.  
+ 
+Place: Coimbatore   
+Date : 11/02/2025                     (Sarnika Sanjiv Kumar)  

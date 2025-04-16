@@ -1,0 +1,378 @@
+BHUVANESH D 
+22PD07 
+Gender                   Date of Birth              Languag es known Email Mobile  Github  LinkedIn Male 
+16th
+ 
+Februar y
+ 
+2004
+ English, Tamil 22pd07@p sgtech.ac.in +91-79040-12553 github.c om/bhuv aneshd32 linkedin.c om/bhuv aneshd32  
+Addr ess
+ 11/3A , Lakshmi Sher wood Apartmen ts, Ramaling a Nagar 5th cross,K.K.Pudur ,Coimba tore , Tamil Nadu - 641038 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern from May 2025 to November 2025.
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+ 
+ 
+Languag es Python, C, C++, SQL 
+ 
+ 
+Tools
+ Terminal(Linux), Gephi , SqlDe veloper  
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+●
+ 
+Object
+ 
+Orien ted
+ 
+Programming
+ 
+●
+ 
+Super vised
+ 
+Learning
+  
+ ACADEMIC RECORD                                                                                                         
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 8.17 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+State
+ 
+Boar d)
+ GD Matric. Hr. Sec School, Coimba tore 
+2022
+ 93 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+State
+ 
+boar d)
+ GD Matric. Hr. Sec School, Coimba tore 
+2020
+ 78 %  
+ INDUS TRY BASED PROJECT EXPERIENCE                                                                                                      
+ 
+ 
+●
+ Sutherland Global Services
+|
+ 
+Studen t
+ 
+Intern
+                                           
+(
+May
+ 
+2024-
+ 
+June
+ 
+2024)
+ Support ed the Platform Solutions Departmen t under Mr. Selladur ai Subr amani and         
+Mr.
+ 
+Prasana,
+ 
+leading
+ 
+a
+ 
+project
+ 
+on
+ 
+real-time
+ 
+restaurant
+ 
+data
+ 
+analy sis
+ 
+with
+ 
+Python.
+ Visualiz ed 
+statistical
+ 
+data
+ 
+and
+ 
+developed
+ 
+regression
+ 
+models,
+ 
+enhancing
+ 
+data
+ 
+analy sis
+ 
+skills
+ 
+and
+ 
+practic al
+ 
+knowledg e.   
+
+ NON ACADEMIC PROJECTS                                                                                                       
+●
+ Eulerian Circuit Finder Developed a Python tool to find Eulerian circuits using Hierholz er's algorithm and to determine the short est path using Dijkstra's algorithm in a graph. Incorpor ated a visual represen tation of the graph for better under standing of the circuits and paths.  
+●
+ Crick et No Ball Prediction Developed a No Ball Detection System using Streamlit, featuring a trained CNN model for accur ate predictions. The applic ation enables user s to select or upload crick et imag es to determine No Ball or Legal Ball scenarios. It includes imag e selection from a test set, efficien t prediction processing , and a professional UI with dynamic result displa y.  ACADEMIC PROJECTS                                                                                                                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+●
+ Lung Cancer Data Analy sis Analy zed lung cancer data and developed predictiv e models using gradien t descen t and decision tree algorithms. Conduct ed compr ehensiv e data analy sis to deriv e insigh ts and impr ove model accur acy. Strengthened expertise in machine learning techniques and data-driv en decision-making.  
+●
+ Music Recommenda tion System: Designed and developed a music recommenda tion system using K-means clustering and the Spotif y API to recommend similar songs. Applied machine learning algorithms to analy ze song features and user preferences. Success fully enhanced user experience by providing tailor ed music recommenda tions.  
+●
+ Ecampus System Developed a colleg e port al using Python, and Oracle, featuring separ ate logins for admin, teacher s, and studen ts. Implemen ted functionality for attendance tracking , subjects, courses enrolled, and an interactiv e frontend using HTML , CSS, and JavaScrip t. Ensur ed database integrity through 3NF table forma tion. 
+ 
+ 
+ 
+ 
+ 
+ 
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+ 
+●
+ 
+Activ e
+ 
+in
+ 
+tennis
+ 
+and
+ 
+athletics,
+ 
+showcasing
+ 
+commitmen t
+ 
+and
+ 
+team work;
+ 
+won
+ 
+the
+ Inter-Zonal Championship in 2019 and the Zonal Championship represen ting Anna Univ ersity in 2023, with notable zonal-le vel athletics participa tion. 
+●
+ 
+Participa ted
+ 
+in
+ 
+a
+ 
+studen t
+ 
+exchang e
+ 
+program
+ 
+in
+ 
+German y
+ 
+(2018-19),
+ 
+represen ting
+ 
+my
+ school at Zollber g-RealSchule in Stuttgart for 2 mon ths; also served as house captain in high school. 
+●
+ 
+Select ed
+ 
+as
+ 
+Executiv e
+ 
+Coor dina tor
+ 
+(2023
+ 
+-
+ 
+Presen t)
+ 
+through
+ 
+election
+ 
+and
+ 
+interview,
+ serving as the head studen t represen tative of the AMCS departmen t at PSG TECH.  
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Bhuv anesh
+ 
+D,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ the best of my knowledg e.  Place: Coimba tore   
+Date
+ 
+:
+ 
+17/02/2024
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+       
+(Bhuv anesh
+ 
+D)
+ 

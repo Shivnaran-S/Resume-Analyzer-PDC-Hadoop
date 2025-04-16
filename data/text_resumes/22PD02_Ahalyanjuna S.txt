@@ -1,0 +1,100 @@
+AHALYANJUNA S  
+22PD02  
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile   
+Github  
+LinkedIn   Female  
+19 June 2004  
+English, Tamil  
+22pd02@psgtech.ac.in   
++91-89036 -34045  
+Ahalyanjuna  
+Ahalyanjuna -S   
+Address  
+160/31 B, Vadivel Nagar,  
+Kamarajar Salai, Madurai - 625009.  
+ 
+OBJECTIVE                                                                                                                         
+To obtain a position as a  student intern from May 2025 to November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                              
+Currently pursuing 3rd year of 5 -year Integrated M.Sc. Data Science at the Department 
+of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+SKILL  SET   
+ 
+AREAS  OF INTEREST      
+  ● Data  Analytics      ● Supervised  Learning  
+   ● Data Structures  and Algorithms    ● Unsupervised Learning  
+ 
+ACADEMIC  RECORD                                                                                                           
+ 
+● M.Sc. Data Science                     2022 -2027  
+PSG College of Technology, Coimbatore.                     9.39 CGPA  
+ 
+● XII (Higher secondary, ISC)                  2022  
+Lakshmi School, Madurai.                            98.20  % 
+ 
+● X (ICSE)                    2020  
+Lakshmi School, Madurai .                           96.33  % 
+ 
+INDUSTRY BASED PROJECT EXPERIENCE  
+ 
+• Aurolab | Student Intern                May 2024 -June 2024  
+Prepar ed flowcharts to represent HR process flows based on discussions with the HR 
+team.  Designed potential dashboards for HR teams using Power BI, focusing on their 
+requirements.  Learned about HR analytics metrics . 
+ Languages  Python, C++, Java  
+Frameworks  Streamlit, Django  
+
+NON -ACADEMIC  PROJECTS    
+ 
+• Retweet Trails   
+Analy sed Twitter retweet networks for Justin Bieber and One Direction to study the 
+dynamics of information spread. The project involved network visualization, centrality 
+analysis to identify key influencers, and assessment of diffusion speed. Developed 
+using Python , with a Streamlit -based frontend, and utilized Gephi  for network 
+visualization.  
+ 
+• SugarRisk  
+Developed a web interface with Streamlit  for users to enter their health metrics and 
+receive predictions on diabetes risk. Utilized logistic regression and decision trees to 
+generate accurate risk assessment s. 
+ 
+ACADEMIC  PROJECTS                                                                                                                                                               
+ 
+• SmartPricing  
+Developed a price prediction model for items sold by various Adidas retailers, 
+incorporating features such as price sensitivity , competitor pricing , and average 
+lagged price . Used  Random Forest  for accurate price predictions and used SHAP  to 
+explain the predictions . Designed a Streamlit -based frontend to display visualizations . 
+ 
+• Tamil -E 
+Developed a project for transliterating Tamil Brahmi script to modern Tamil using 
+Convolutional Neural Networks  (CNNs).  Input images of the script were split into 
+individual character images, which were then processed by the CNN model to predict 
+the modern Tamil text. A Streamlit  interface was created to  provide interactive 
+experience.  
+ 
+• Replace  Right   
+The project finds an optimal replacement policy for a machine in a company based 
+upon age, revenue, operating cost and salvage value over a certain period making use 
+of the mathematical concept of dynamic programming . The project was built using 
+the Django  framework, Python for backend logic  and HTML  for front end.  
+ 
+EXTRA -CURRICULAR  ACTIVITIES                             
+ 
+⚫ A Passionate traditional and contemporary style Bharatanatyam Dancer . 
+⚫ Serving as the Joint Secretary – Content  at the  Rotaract Club , where I help organize 
+events and coordinate with people to write content for social media posts.  
+⚫ Participated  in KLA Unhack , a hackathon organized by KLA at PSG College of 
+Technology.   
+DECLARATION    
+ 
+I, Ahalyanjuna S, do hereby confirm that the information given above is true to the 
+best of my knowledge.  
+Place: Coimbatore    
+Date: 20/11/2024                        (Ahalyanjuna S)  

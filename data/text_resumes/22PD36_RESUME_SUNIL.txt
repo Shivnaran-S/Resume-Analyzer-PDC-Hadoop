@@ -1,0 +1,35 @@
+SUNILJ22PD36
+GenderDateofBirthLanguag esknownEmailMobileGithubLinkedinMale16thMay2004English,Tamil22pd36@p sgtech.ac.in+91-9840349114github.c om/SuniL-0007linkedin.com/sunil-j
+Addr essC-103,S&SUNI5,RailwayStationRoad,Chennai-600080,TamilNadu.
+OBJE CTIVE
+ToobtainapositionasastudentinterninMay2025toNovember2025.ACADEMICQUALIFICA TION
+Currentlypursuing3rdyearof5yearIntegratedM.Sc.DataScienceattheDepartmen tofAppliedMathematicsandComput ationalSciencesatPSGCollegeofTechnology .
+SKILLSET
+Languag esPython,C++,SQL
+LibrariesandFrameworksPandas,Scikit-learn,Matplotlib,Flask
+ ToolsExcel,PowerBI
+AREASOFINTERE ST
+●DataAnalytics
+●SupervisedLearning
+●BusinessAnalytics
+ACADEMICRECORD
+●M.ScDataSciencePSGCollegeofTechnology ,Coimbatore2 0 2 2 - 2 0 2 78.23CGPA
+●XII(HigherSecondar y,StateBoar d)SBOAMatric.Hr.SecSchool,Chennai2 0 2 295.50%
+●X(SSLC,StateBoar d)SBOAMatric.Hr.SecSchool,Chennai2 0 2 093.20%
+  INDUS TRYBASEDPROJECT                                                    
+●AshokLeyland|BusinessAnalyticsIntern(May2024–June2024)DuringtheinternshipatAshokLeyland,salesdatawasanalyzedusingExcelandPythontoprovideinsightsforthesalesteamdashboar d.Marketcoverageandsharewereenhancedbyidentifyingtrends,seasonality ,andperformancepatterns.Practicalskillsindataanalysis,statisticalinference,andbusinessinsightgenerationweregainedthroughthisexperience.
+
+NON-A CADEMICPROJECTS
+●SocialSpotligh tSolutionsThisprojectanalyzestheDeezerEuropeSocialNetworkdatasetusingsocialnetworkanalysistechniques.Ituncovershiddenpatternsthroughcommunitydetection,identifiesinfluentialusersusingmetricslikecentrality,andpredictsfutureuserconnectionswithlinkpredictionmethods.
+●ExamScheduler
+Implemen tedinPythonthatusesvertexcoloringtechniquestoefficientlyschedulefinalexamsforstudentsbasedontheircourserequirementsandprovidesclearvisualrepresentationofthescheduledexams.
+ACADEMICPROJECTS
+●PropertyPricerDevelopedamachinelearningmodelforpropertypricepredictionusingwebscrapeddata.Builtandevaluatedregressionmodels,includingRandomForestandGradien tBoos tingRegression,achievinghighpredictiveaccuracy.EffectivelyleveragedpythonlibrariessuchasPandas,Scikit -learntopreprocessdataandevaluatemodelperformance.
+●ActionRuleMiningImplemen tedactionruleminingonacreditappr ovaldatasetinPythonusingtheDEAR2algorithm.Usedconfidence,lift,andsupportforevaluatingtheactionablerulestoenhancedecision-makingandoptimizeapprovalprocesses.
+●GymEaseSoftwareImplemen tedusingFlaskandMySQL,thissoftwarestreamlinesthemanagementofvariousadminis trativeanduseroperationaltasksinagym,includingmemberregistration,attendanceandperformancetracking,alongwithequipmen thandling.
+EXTRA -CURRICULARACTIVITIE SANDACHIEVEMENT S
+●Footballplayer,beenpartofmyschoolteamandparticipa tedinmanyinterschooltournamen ts.
+●Haveparticipa tedinmanyAbacusCompetitionsandwonmanyprizes.
+DECLARA TION
+I,SunilJ,doherebyconfirmthattheinformationgivenaboveistruetothebestofmyknowledge.
+Place:CoimbatoreDate:20/11/2024(SunilJ)

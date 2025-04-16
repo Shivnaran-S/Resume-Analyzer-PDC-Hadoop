@@ -1,0 +1,95 @@
+DUSHYANTH REDDY S  
+22PD 30 
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile   
+GitHub  
+LinkedIn  Male  
+08th July, 2005  
+English, Tamil, Hindi, Telugu  
+saripiralladushyanthreddy2004@gmail.com      
++91-8977254532  
+github.com/ dushyanth -04 
+linkedin.com/dushyanth  R 
+ Address  
+Balaji N agar,45/394 -5 
+Kadapa, Andhra Pradesh - 516003.  
+ 
+ 
+OBJECTIVE                                                                                                                        
+To obtain a position as an intern for a period of six months from May 2025 to 
+November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+SKILL  SET  
+ 
+Languages  Python, C++, Oracle SQL ,C , Java  
+Libraries  numpy, sympy, matplotlib, Flask  
+Tools  Git, Power BI  
+ 
+AREAS  OF INTEREST  
+● Machine learning  
+● Data Analytics   
+ 
+ACADEMIC  RECORD                                                                                                          
+ 
+● M.Sc Data Science   
+PSG College of Technology, Coimbatore      2022 -2027  
+CGPA: 6.05  
+● XII (Board of Intermediate Education , TS) 
+Narayana Junior College, Hyderabad  2022  
+95% 
+● X (SSC) 
+Sri Chaitanya English Medium High School, Kadapa  
+ 
+ 
+ 
+ 
+ 
+ 2020  
+100 % 
+ 
+
+ACADEMIC  PROJECTS   
+       
+• Banking management system  
+Developed a  Banking Management System in Java, utilizing object -oriented principles 
+including inheritance to create a flexible and scalable application. The system effectively 
+manages banking operations, providing features for account handling, transaction 
+management, and user  interaction.  
+• Coffee shop management  system  
+Designed and implemented a Coffee Shop Management System using C++ to streamline 
+the operations of a coffee shop, including order processing, inventory management, and 
+customer service.  
+• Diabetes prediction  
+Developed a predictive model for diabetes using Python, leveraging machine learning 
+techniques to analyze patient data and identify risk factors.  Utilized libraries such as 
+Pandas, NumPy, and Scikit -Learn to build and evaluate classification models, including 
+Logistic Regression.  
+NON  ACADEMIC  PROJECTS   
+       
+Predictive Modeling for Stock Prices  
+Description: Create a machine learning model to predict stock prices based on historical data. 
+Use libraries like pandas for data manipulation and scikit -learn or TensorFlow for building and 
+training the model. Evaluate the performance using metrics such as Mean Absolute Error (MAE) 
+or Root Mean Squared Error (RMSE).  
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                      
+• Participated in local shuttle badminton tournaments, showcasing teamwork and 
+competitive spirit.  
+• Regularly engaged in community cricket matches, fostering collaboration and 
+leadership.  
+• Actively involved in sports and fitness activities to maintain a healthy lifestyle.   
+         
+DECLARATION   
+                                                                
+ I, Dushyanth Reddy S , do hereby confirm that the information given above is true 
+to the best of my knowledge.  
+ 
+Place: Coimbatore                                                                                                             
+Date : 09/09/2024               (Dushyanth Reddy S ) 

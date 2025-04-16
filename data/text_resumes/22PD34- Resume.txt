@@ -1,0 +1,237 @@
+ SOUNDARYALAKSHMI R 22PD34 Gender                   Date of Birth            Languag es known Email Mobile  Github  LinkedIn  Female 
+26th
+ 
+December
+ 
+2004
+ English, Tamil 22pd34@p sgtech.ac.in +91-63838-00754 github.c om/Soundar yalak shmi-R 
+linkedin.c om
+/
+Soundaryalakshmi
+ 
+R 
+ 
+Addr ess
+ No 1, Harini Avenue, Vadavalli, Coimba tore, TamilNadu - 641041   OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern from May 2025 to November 2025. 
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ 
+ SKILL SET  Languag es C++, C, Python, R 
+ 
+ 
+Libraries
+ 
+&
+ 
+Frame works
+ Flask, pandas 
+ 
+ 
+Tools
+ Power Bi 
+ AREAS OF INTERE ST 
+●
+ 
+Full
+ 
+Stack
+ 
+Developmen t
+ 
+●
+ 
+Problem
+ 
+solving
+ 
+●
+ 
+Machine
+ 
+learning
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+ 
+ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022
+ 
+-
+ 
+Present
+ 8.4 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+CBSE)
+ Bhar athi Matric Higher Secondar y School, Coimba tore  
+2022
+ 97.5 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+State
+ 
+boar d)
+ Bhar atiya Vidy a Bhavan Matric Hr. Sec School, Coimba tore 
+2020
+ 89.6 % 
+       
+
+NON ACADEMIC PROJECTS                                                                                                                                                    
+ 
+●
+ Dynamic programming for Collision avoidance of autonomous ship s 
+Developed a dynamic programming frame work for ship route optimiz ation, ensuring safe navigation through obstacle-a voiding , cost-minimiz ed paths.Enhanced maritime navigation safety and efficiency in congested waters. 
+ ACADEMIC PROJECTS                                                                                                                                                              
+●
+ GrocerE ase  
+Developed a compr ehensiv e online grocer y shopping web applic ation using the Flask Python frame work for back end developmen t, PostgreSQL for database manag emen t, and HTML/CSS for frontend design. The applic ation includes features like user registration, product browsing, and a secur e check out process, and is deplo yed on Vercel for scalability . It integrates efficien t database queries and serverless functions to ensur e optimal performance and seamless usability across devices. 
+●
+ Siamese Neur al Network for ADHD 
+Developed a Siamese Neur al Network for classif ying ADHD and non-ADHD individuals using EEG data, leveraging contrastive loss and triple t loss with convolutional layers for feature extraction and pairwise similarity learning. Evalua ted model performance using accur acy and classific ation metrics. 
+●
+ Disas ter prediction using Machine learning with privacy and explainability 
+Developed a disas ter prediction frame work using machine learning techniques, incorpor ating SMO TE for handling imbalanced data, Laplacian noise for differential privacy, and advanced models like Random Forest and XGBoos t. Enhanced model interpr etability with LIME and SHAP , providing actionable insigh ts for critic al decision-making.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXTRA -CURRICULAR ACTIVITIE S AND ACHIEVEMENT S  
+●
+ Achie ved certific ation for the course comple tion of HTML and CSS authoriz ed by Meta and offered through Cour sera.
+ 
+ 
+●
+ Skilled Carna tic singer, comple ted Carna tic Vocal Arangetram in 2017 
+●
+ Accomplished guitarist, achie ved Level 5 with distinction in the Trinity Colleg e of Music Examina tion.
+                                                 
+DECLARA TION
+ 
+                                                                 
+ 
+I,Soundar yalakshmi
+ 
+R,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ true to the best of my knowledg e.  Place: Coimba tore   
+Date
+ 
+:
+ 
+05/02/2025
+ 
+ 
+           
+ 
+   
+ 
+ 
+ 
+                  
+(Soundar yalakshmi
+ 
+R)
+ 

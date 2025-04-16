@@ -14,3 +14,5 @@ for pdf_file in os.listdir(PDF_DIR):
         #with open(os.path.join(TXT_DIR, pdf_file.replace(".pdf", ".txt")), "w") as f:
         with open(os.path.join(TXT_DIR, pdf_file.replace(".pdf", ".txt")), "w", encoding="utf-8") as f:
             f.write(text)
+
+# Resume Dataset: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset

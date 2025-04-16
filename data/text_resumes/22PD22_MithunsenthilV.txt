@@ -1,0 +1,348 @@
+MITHUNSENTHIL V 
+22PD22 
+Gender                   Date of Birth              Languag es known E-mail Mobile   Github Linkedin Male 
+12th
+ 
+September
+ 
+2004
+ English, Tamil  22pd22@p sgtech.ac.in +91-74182-50339 github.c om/Mithunsen thil link edin.c om/Mithunsen thilV 
+ 
+Addr ess
+ 2, Venkateswara nagar main road, Kangeyam road, Tiruppur , Tamil Nadu - 641604 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as an intern for a period of six mon ths from May 2025 to 
+November
+ 
+2025.
+   
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5-year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es C++, Python, C, SQL, R 
+Libraries Scikit -learn, NetworkX, Streamlit, Pytorch 
+ 
+ 
+Tools
+ 
+and
+ 
+Frame works
+ Power BI, Djang o, Excel, Gephi, Git 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+and
+ 
+Algorithms
+ 
+●
+ 
+Super vised
+ 
+&
+ 
+Unsuper vised
+ 
+Learning
+  
+ ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 8.03 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+State
+ 
+Boar d)
+ Kids Club Matricula tion Higher Secondar y School, Tiruppur 
+2022
+ 93.66 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+State
+ 
+Boar d)
+ St. Joseph’ s Matricula tion Higher Secondar y School, Tiruppur 2020 79.6 % 
+       
+
+  INDUS TRY BASED PROJECT EXPERIENCE                                                                                                                             
+●
+ 
+Learner
+ 
+Circle
+ 
+–
+ 
+Data
+ 
+Science
+ 
+Intern
+ 
+ 
+ 
+ 
+       
+(May
+ 
+2024
+ 
+-
+ 
+June
+ 
+2024)
+ 
+Developed a KYC tool for childr en using machine learning to assess intelligences based on Howard Gardner ’s Theor y, leveraging Python libraries like Pandas, Scikit -learn, and Seaborn for preprocessing and evalua tion. 
+     NON-A CADEMIC PROJECTS 
+ 
+●
+ 
+    Blog ger   
+Developed a full-s tack web applic ation using Djang o and MySQL, featuring secur e user authen tication, allowing user s to create blog posts and commen ts for user interaction.  Designed a responsiv e frontend with HTML and CSS to ensur e an engaging user experience. 
+●
+  Action Rule Mining 
+Implemen ted action rule mining on a credit appr oval dataset in Python using the DEAR2 algorithm. Used confidence, lift, and support for evalua ting the actionable rules to enhance decision-making and optimiz e appr oval processes. 
+ ACADEMIC PROJECTS                                                                                                                                                            
+  
+●
+ Subscribe Smart 
+A dual-me thod appr oach to predict subscrip tion churn using Scikit -Learn library and TensorFlo w. The project integrates traditional super vised learning models and Comple x neur al networks, visualiz ed via a Streamlit applic ation, with enhanced accur acy from hyperpar ame ter tuning methods. 
+●
+  Cinely tics 
+ Built a movie success prediction system in Python. Used various APIs for data collection and Beautiful Soup for web scraping. Used Node2V ec Embeddings in network graph analy sis and integrated machine learning models to enhance predictiv e accur acy. 
+●
+  Optimiz ed Inventory Flow 
+Developed an inventory manag emen t system leveraging the Branch and Bound algorithm to optimiz e job scheduling under predefined constraints, ensuring efficiency and accur acy in task alloc ation. 
+ 
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+ 
+ 
+●
+ 
+Comple ted
+ 
+the Google
+ 
+Advanced
+ 
+Data
+ 
+Analy tics 
+Certific ation
+ 
+at
+ 
+Cour sera
+.
+ 
+●
+ 
+Proficien t
+ 
+in
+ 
+FL
+ 
+Studio
+ 
+with
+ 
+expertise
+ 
+in
+ 
+using
+ 
+its
+ 
+virtual
+ 
+instrumen ts
+ 
+for
+ 
+music
+ 
+production.
+ 
+●
+ 
+Proficien t
+ 
+in
+ 
+Blender
+ 
+with
+ 
+experience
+ 
+in
+ 
+creating
+ 
+anima tions
+ 
+and
+ 
+simula tions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Mithunsen thil
+ 
+V,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ to the best of my knowledg e.  
+ Place: Coimba tore   
+Date:
+ 
+19/01/2024
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+               
+(Mithunsen thil
+  
+V)
+ 

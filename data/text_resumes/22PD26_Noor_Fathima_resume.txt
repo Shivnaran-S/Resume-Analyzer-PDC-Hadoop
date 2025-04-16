@@ -1,0 +1,33 @@
+NOORFATHIMA22PD26
+GenderDateofBirthLanguag esknownEmailMobileGitHubLinkedInFemale14thAugust2004English,Hindi,Tamil22pd26@p sgtech.ac.in+91-9791227968NoorFathima14noor-fathima14
+Addr essFlatNo.A-314,ShriramVijayaHyydeParkApartmen ts,Avarampalayam,Peelamedu,Coimbatore-641004
+OBJE CTIVET oo b t a i nap o s i t i o na sa ni n t e r nf o rap e r i o do fs i xm o n t h sf r o mM a y2 0 2 5t oN o v e m b e r2 0 2 5 .
+ACADEMICQUALIFICA TION
+Currentlypursuing3rdyearof5yearIntegratedM.Sc.DataScienceattheDepartmen tofAppliedMathematicsandComput ationalSciencesatPSGCollegeofTechnology .
+SKILLSET
+Languag esPython,C++,C,SQL
+ LibrariesandFrameworksNetworkX,Scikit-learn,Pandas
+ ToolsGephi
+AREASOFINTERE ST
+●DataAnalytics
+●DataStructur esandAlgorithms
+●SupervisedandUnsuper visedLearning
+●DataVisualization
+ACADEMICRECORD
+●M.ScDataSciencePSGCollegeofTechnology ,Coimbatore2022-20278.42CGPA
+●XII(Highersecondar y,CBSE)SugunaPIPSchool,Coimbatore202292.00%
+●X(CBSE)PSGPublicSchools,Coimbatore202093.60%
+               
+
+INDUS TRYBASEDPROJECTEXPERIENCE
+●SolutionChamp sTechnologiesLtd.|MachineLearningIntern(May-June2024)WorkedonDeep fakeDetectioninthedomainofMachineLearning.Ledthedatacollectionandpreprocessingphaseoftheproject.Collectedandorganizedabalanceddatasetofgenuineandfakevideos,processedframes,andprepareddatafortrainingmachinelearningmodels.
+NON-A CADEMICPROJECTS
+●PathMaster-ProjectManagementDevelopedinC++,ThisapplicationleveragestheCritic alPathMethod(CPM)forprojectscheduling.Usersinputactivitydetails,dependencies,anddurationstocalculatekeyschedulingparametersandidentifythecriticalpathforoptimizedprojectmanagement.
+●MagnetRx-PainReliefAnalysisUsingR,Painmanagementisanalyzedusingactiv eversusplacebomagne ts,withstatisticalmethodsincludinghypothesistesting(t-tests)andlinearregressionmodelstoevaluateeffectivenessandidentifysignificantdifferencesinpainratings.
+ACADEMICPROJECTS
+●MammoDe tect-BreastCancerDetectionDevelopedabreastcancerdetectionsystemusingaSiameseneur alnetworktoclassifymammogr ams.Optimizedperformancewithdataaugmen tation,oversampling ,andhyperpar ametertuning.DeployedaStreamlit -basedGUIforinteractiveimagecomparisonanddiagnosis.Implemen tedearlystoppingandmodelcheckpoin tingtoimproveaccuracyandpreventoverfitting.
+●GestureNet-SignLanguag eRecognitionDevelopedareal-timesignlanguag erecognitionsystemusingHOGfeatureswithSVMandKNNclassifier s.Focusedonimprovingaccuracythroughdataaugmen tation,featurescaling,andhyperpar ametertuning.Integratedalivevideofeedforgesturepredictionandimplemen tedaGUIforuserinteraction.Optimizedthesystemforreal-timeperformance,supportingsignlanguag ecommunic ation.
+●BloomSear ch-TextSearchEngineDevelopedatextsearchengineusingaBloomfilterforfastandspace-efficientlookupswithcontrolledfalse-positiv eprobability .Calculatedtrue/falsepositivesandnegativestoevaluateandoptimizethefilter'sreliability ,ensuringaccuratetextsearch.Resultswerevalidatedwithbinar ysear ch,leveragingSHA256(hashes)forreliabledatahandling.               EXTRA -CURRICULARACTIVITIE SANDACHIEVEMENT S
+●NationalCade tCorp s(NCC)Completed"A"Certificate,participa tedindrills,communityservice,andleadershipactivities.  
+DECLARA TIONI,NoorFathima,doherebyconfirmthattheinformationgivenaboveistruetothebestofmyknowledge.
+Place:Coimbatore(NoorFathima)Date:20/11/2024

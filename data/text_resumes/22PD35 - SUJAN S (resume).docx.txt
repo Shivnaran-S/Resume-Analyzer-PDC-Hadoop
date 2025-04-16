@@ -1,0 +1,360 @@
+SUJAN S 
+22PD35 
+Gender                   Date of Birth              Languag es known Email Mobile GitHub LinkedIn   Male 
+13th
+ 
+September
+ 
+2004
+ English, Tamil 22pd35@p sgtech.ac.in +91-8838177537 github.c om/ sujanshanmug araj linkedin.c om/ sujan-s  
+ 
+Addr ess
+ 
+2/219-3,
+ 
+Swetha
+ 
+Avenue,
+ 
+Koralkottai
+ 
+road,
+ Udumalpe t, Tamil Nadu - 642126 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern from May 2025 to November 2025.
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es C++, Python, SQL 
+ 
+ 
+Libraries
+ 
+and
+ 
+frame works
+ Pandas, Streamlit, Scikit -learn, TensorFlo w 
+ 
+ 
+Tools
+ PowerBI, Gephi, Excel, VS Code 
+ 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+and
+ 
+Visualiz ation
+ 
+●
+ 
+Super vised
+ 
+learning
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+and
+ 
+Algorithms
+  
+ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 7.02 CGPA  
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+CBSE)
+ Sri Chait anya Educational Institut es, Coimba tore 
+2022
+ 90.20 %  
+●
+ 
+X
+ 
+(CBSE)
+ VAV Interna tional School, Udumalpe t 
+2020
+ 91.40 % 
+              
+
+NON-A CADEMIC PROJECTS                                                                                                                                       
+ 
+ 
+●
+ Personal AI Communic ation Assis tant  
+Developed an AI assis tant for automa ting communic ation across Gmail, Slack, and Wha tsApp. Utiliz ed Google Gemini for NLP-based summariz ation and smart replies. Integrated Selenium for Wha tsApp automa tion and Flask for API interactions. Emplo yed TF-IDF for task extraction and SQLit e for data storage. 
+●
+ Churn Forecast 
+The project predicts customer churn for a telecom compan y using machine learning. Several models like Logis tic Regression, Random Forest, and SVM are built and assessed. The goal is to create a robus t predictiv e model and offer insigh ts to the compan y for better churn manag emen t. 
+ ACADEMIC PROJECTS                                                                                                                                                             
+ 
+●
+ Formula 1 Data Analy sis and 2025 Season Prediction Platform 
+Developed a Formula 1 analy sis platform using Pandas and Scikit -learn to predict 2025 champions and evalua te team performance. Applied machine learning  (Random Forest) and statistical techniques (ANO VA, Mark ov Chains) for insigh ts on pit stops and driver transitions. Built dashboar ds with Streamlit and Power BI for trend visualiz ation. 
+●
+ Chat Spher e 
+Developed an interactiv e Chat Applic ation using ReactJS and ChatEngine.io for real-time communic ation. Implemen ted secur e user authen tication, allowing user s to log in, chat individually , or create group chat rooms. Enhanced user experience through a responsiv e, intuitiv e interface. 
+●
+ Stellar Sort er 
+The project focuses on classif ying celes tial objects and predicting galaxy redshifts using SDSS spectr al data and astroML library. The analy sis includes handling outlier s, class imbalance with SMO TE, and feature extraction through PCA. Machine learning models like GMMBa yes, SVM, Random Forest, Linear Regression were applied. 
+●
+ EcoBuzz Analy tics 
+This project analy zes real-w orld Twitter data to assess public sentimen t on environmen tal sustainability using BERT-based sentimen t analy sis from Hugging Face Transformer s. Tweets are pre-processed with NLTK. The study uncovers trends and challeng es related to human-en vironmen t interactions, highligh ting opportunities for sustainability .  
+ 
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+  
+●
+ 
+Proactiv e
+ 
+class
+ 
+represen tative
+ 
+with
+ 
+two
+ 
+years
+ 
+of
+ 
+leader ship
+ 
+experience,
+ 
+dedic ated
+ 
+to
+ fostering positiv e chang e and advocating for peer s.                                                                             
+●
+ 
+A
+ 
+skilled
+ 
+and
+ 
+passiona te
+ 
+pain ter
+ 
+with
+ 
+a
+ 
+strong
+ 
+creative
+ 
+vision
+ 
+and
+ 
+dedic ation
+ 
+to
+ 
+artis tic
+ excellence.  
+●
+ 
+An
+ 
+activ e
+ 
+member
+ 
+of
+ 
+Radio
+ 
+Hub.
+                                                                                                                          
+ 
+●
+ 
+Participa ted
+ 
+in
+ 
+a
+ 
+workshop
+ 
+on
+ 
+Web
+ 
+Developmen t
+ 
+conduct ed
+ 
+by
+ 
+IIT
+ 
+Palakk ad.
+                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Sujan
+ 
+S,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ 
+the
+ best of my knowledg e.  Place: Coimba tore                                                                                                                                   
+Date
+ 
+:
+ 
+17/03/2025
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+                  
+(Sujan
+ 
+S)
+ 

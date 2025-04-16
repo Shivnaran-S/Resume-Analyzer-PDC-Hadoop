@@ -1,0 +1,284 @@
+CHAITHANYA N 
+22PD09 
+Gender                   Date of Birth              Languag es known Email Mobile   GitHub LinkedIn Female 14 December 2004 English, Mala yalam, Tamil 22pd09@p sgtech.ac.in +91-89433-74837 CHAITHANY A NAND AN Chaithan ya N 
+ 
+Addr ess
+ Sunandam, Ambady House, SMV Road, Irinjalak uda Thrissur , Kerala 680121 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern for a period of six mon ths from May 
+2025
+ 
+to
+ 
+November
+ 
+2025.
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es C, C++, Python 
+ 
+ 
+Tools/Fr ame work
+ PowerBI, VSCode, Python Flask 
+Platform Windo ws 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Visualiz ation
+ 
+●
+ 
+Super vised
+ 
+learning
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+●
+ 
+Full
+ 
+Stack
+ 
+Developmen t
+ 
+ ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 6.20 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,State
+ 
+Boar d)
+ National HSS, Irinjalak uda 
+2022
+ 89 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+State
+ 
+boar d)
+ National HSS, Irinjalak uda 
+2020
+ 97 % 
+  
+      
+
+NON ACADEMIC PROJECTS                                                                                                                                                    
+● FraudShield: Adversarial Defense, utiliz es adversarial learning and SMO TE in a fraud detection task. By iteratively refining the model through adversarial examples and using data augmen tation techniques, the Random Forest classifier becomes better equipped to handle class imbalances and impr ove fraud detection accur acy. 
+ACADEMIC PROJECTS                                                                                                                                                            
+  
+●
+ XAI-EE G Decoder, Developed an Explainable AI (XAI) model using EEG data to classif y ADHD and control patients, achie ving 88% accur acy with a Random Forest model. Incorpor ated Appr oxima te Entropy to analy ze beha vioral comple xity and utiliz ed SHAP and LIME for interpr etability , offering insigh ts into ADHD diagnosis. Enhanced decision-making processes for personaliz ed treatmen t strategies.  
+●
+ Mark etTrend Analy tics, Flask-based web applic ation, built with Python, HTML , CSS, and JavaScrip t, analy zes and visualiz es historical stock data using the Yahoo Finance API. Key features include financial metrics like volume, mark et cap, moving averages, scatter matrix, and volatility analy sis.  
+●
+ BookHa ven Keeper, Implemen ted in C++ that uses inherit ance, object -orien ted design, files concep ts. This is a user -friendly manag emen t wher e user s can upda te sales, stock from supplier s, sales tracking , customer registration and login.  
+●
+ Snak e Game, Implemen ted a classic Snak e game in C++ using Linked List . Allows players to control the movemen t of a snak e within a bordered grid. Includes a randomly gener ated food item that increases the snak e's leng th upon consump tion. 
+ 
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+  
+●
+ 
+A
+ 
+Mohiniy attam
+ 
+artis t
+ 
+and
+ 
+disciple
+ 
+of
+ 
+Guru
+ 
+Smt.
+ 
+Nirmala
+ 
+Panick er,
+ 
+with
+ 
+extensiv e
+ 
+stage
+ experience. 
+●
+ 
+Activ e
+ 
+NSS
+ 
+volun teer
+ 
+dedic ated
+ 
+to
+ 
+social
+ 
+service,
+ 
+with
+ 
+key
+ 
+contributions
+ 
+during
+ 
+the
+ COVID-19 pandemic. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Chaithan ya
+ 
+N,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ to the best of my knowledg e.  Place: Coimba tore 
+Date
+ 
+:24/03/2025
+                                           
+ 
+ 
+ 
+ 
+ 
+(Chaithan ya
+ 
+N)
+ 

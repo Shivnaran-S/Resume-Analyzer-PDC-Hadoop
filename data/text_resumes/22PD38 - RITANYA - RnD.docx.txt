@@ -1,0 +1,487 @@
+V S RITANYA 
+22PD38 
+Gender                   Date of Birth              Languag es known Email Mobile   GitHub LinkedIn Female 
+11th
+ 
+October
+ 
+2004
+ English, Tamil 22pd38@p sgtech.ac.in +91-9345321480 github.c om/rit anya-vs linkedin.c om/rit anya-v-s 
+ 
+Addr ess
+ 1/1D , Arumug am Lay-out,  Annanag ar , Peelamedu , Coimba tore - 641004 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern from May 2025 to November 2025.
+ 
+ 
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es C++ , Python , C,  SQL 
+Modules Scikit -learn , Streamlit 
+ 
+ 
+Tools
+ Jupyter Notebook , VS Code, Gephi  
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+and
+ 
+Algorithms
+ 
+●
+ 
+Super vised
+ 
+Learning
+  
+ ACADEMIC RECORD                                                                                                         
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 8.64 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+CBSE)
+ Suguna PIP School, Coimba tore 
+2022
+ 91.40 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+CBSE)
+ Suguna PIP School, Coimba tore 
+2020
+ 95.20 % 
+ INDUS TRY BASED PROJECT EXPERIENCE                                                                                                      
+ 
+ 
+●
+ 
+[24]7.ai
+ 
+|
+ 
+Data
+ 
+Science
+ 
+Intern
+                                                              
+(
+May
+ 
+2024
+ 
+-
+ 
+July
+ 
+2024)
+ 
+Automa tic
+ 
+Speech
+ 
+Recognition
+ 
+(ASR)
+ 
+System
+ 
+Developmen t
+ Developed and evalua ted an Automa tic Speech Recognition system using the AN4 
+dataset
+ 
+with
+ 
+PocketSphin x
+ 
+toolkit.
+ 
+Applied
+ 
+Hidden
+ 
+Mark ov
+ 
+Models
+ 
+(HMM)
+ 
+to
+ 
+optimiz e
+ 
+speech-t o-text
+ 
+conversion,
+ 
+achie ving
+ 
+a
+ 
+25.7%
+ 
+error
+ 
+rate
+ 
+reduction
+ 
+and
+ 
+11.1%
+ 
+accur acy
+ 
+impr ovemen t
+ 
+over
+ 
+the
+ 
+baseline.
+ 
+Explor ed
+ 
+Kaldi
+ 
+toolkit ’s
+ 
+architectur e
+ 
+for
+ 
+ASR
+ 
+and
+ 
+reviewed
+ 
+advancemen ts
+ 
+in
+ 
+speech
+ 
+recognition
+ 
+through
+ 
+resear ch
+ 
+paper s.
+   
+
+NON-A CADEMIC PROJECTS                                                                                                                                                   
+ 
+●
+ Smart Fruit Recognition 
+ Developed a smart fruit recognition system using ESP32-CAM integrated with Arduino. Leveraged a TensorFlo w Lite Convolutional Neur al Network (CNN) model for real-time fruit detection, displa ying results on a Streamlit interface. This project demons trates the process of model training and integration for IoT-based AI solutions. 
+ 
+●
+ Suburban Bus Route Design using Dynamic Programming
+ Developed a Dynamic Programming-based algorithm for suburban bus route optimiz ation using graph theor y. Utiliz ed recur sive memoiz ation to determine the minimum-c ost path while accounting for various stops and constraints. Visualiz ed optimal routes and the graph with NetworkX. 
+ 
+ ACADEMIC PROJECTS                                                                                                                                                             
+ 
+●
+ Diabe tes Prediction
+ Developed predictiv e models for diabe tes using national health survey data, emplo ying Multinomial Logis tic Regression and Decision Trees with SMO TE for balancing. Built an interactiv e Streamlit frontend for input and visualiz ation, deliv ering actionable insigh ts for early diagnosis and risk mitig ation using Python libraries like Scikit -learn and Streamlit. 
+ 
+ 
+●
+ Payroll Manag emen t System
+ 
+Developed
+ 
+using
+ 
+React.js
+ 
+for
+ 
+the
+ 
+frontend, 
+Node.js
+ 
+for
+ 
+the
+ 
+back end,
+ 
+and
+ 
+MySQL
+ 
+for
+ 
+the
+ database, this system includes attendance tracking and payroll gener ation. It monit ors emplo yee work hour s, late arriv als, early departur es, and absenteeism, ensuring accur ate and efficien t payroll manag emen t with a user -friendly interface. 
+ 
+●
+ Imagino Developed a Java project leveraging OpenCV to capture imag es and apply imag e processing techniques, utilizing JavaFX SceneBuilder for creating a user -friendly interface. Integrated JavaMail API to seamlessly transmit processed imag es via email, enhancing efficiency in imag e manipula tion and secur e email transmission for impr oved user experience and functionality . 
+ 
+●
+ Retweet Trails
+ Analy zed the retweet networks of Justin Bieber and One Direction on Twitter using social network analy sis techniques and visualiz ed them with Gephi. Applied centrality metrics, tempor al analy sis, and informa tion diffusion to iden tify key influencer s and compar e community structur e and informa tion spread efficiency . 
+ 
+ 
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+ 
+               
+ 
+●
+ 
+Placemen t
+ 
+Represen tative
+,
+ 
+organized
+ 
+and
+ 
+conduct ed
+ 
+targeted
+ 
+placemen t
+ 
+classes
+ 
+while
+ supporting peer s for success ful placemen ts. 
+●
+ 
+Bask etball
+ 
+Player,
+ 
+consis tently
+ 
+exhibit ed
+ 
+commitmen t,
+ 
+team work,
+ 
+and
+ 
+discipline
+ 
+through
+ activ e participa tion.
+ 
+  
+●
+ 
+An
+ 
+activ e
+ 
+member
+ 
+of
+ 
+Coding
+ 
+Club
+ 
+and
+ 
+Radio
+ 
+Hub
+.
+ 
+●
+ 
+Organized
+ 
+and
+ 
+led
+ 
+a
+ 
+data
+ 
+analy tics
+ 
+and
+ 
+visualiz ation
+ 
+hack athon,
+ 
+‘Data
+ 
+Premier
+ 
+League’
+ 
+at
+ the colleg e level.
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+V
+ 
+S
+ 
+Ritanya,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ 
+the
+ best of my knowledg e.  Place: Coimba tore   
+Date
+ 
+:
+ 
+21/11/2024
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+            
+(V
+ 
+S
+ 
+Ritanya)
+ 

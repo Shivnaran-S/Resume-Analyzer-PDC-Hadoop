@@ -1,0 +1,484 @@
+ 
+VARUN SITHAARTH KK 
+22PD40 
+Gender                   Date of Birth              Languag es known Email Mobile GitHub LinkedIn Male 
+17th
+ 
+June
+ 
+2004
+ English, Tamil 22pd40@p sgtech.ac.in +91-84386-5623 github.c om/v arun4sid linkedin.c om/V arunSithaarth  
+Addr ess
+ 
+37/1,
+ 
+Balaji
+ 
+Apartmen ts,
+ 
+Annai
+ 
+Sathya
+ 
+Nagar,
+ 
+Palayapala yam,
+ Erode, Tamil Nadu-638011. 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as an intern for a period of six mon ths from May 2025 to November 2025.
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es Python, C++, SQL, Javascrip t 
+Tools VSCode, Git 
+Libraries & Frame works BeautifulSoup, Streamlit 
+Platforms Linux, Windo ws 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Web
+ 
+Developmen t
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+ 
+ 
+●
+ 
+Data
+ 
+Visualiz ation
+ 
+●
+ 
+System
+ 
+Design
+ 
+ ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore. 
+    
+2022-2027
+ 6.541 CGPA 
+●
+ 
+XII
+ 
+(CBSE)
+ Maharishi Interna tional Residen tial School, Kanchipur am. 
+2022
+ 89.40 % 
+●
+ 
+X
+ 
+(CBSE)
+ The BVB School, Erode. 
+2020
+ 95.20 % 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+  
+ 
+ACADEMIC PROJECTS  
+●
+ Personal Library Manag emen t System Developed an interactiv e web applic ation using Streamlit and Python for managing 
+personal
+ 
+book
+ 
+records.
+ 
+The
+ 
+platform
+ 
+enables
+ 
+user s
+ 
+to
+ 
+track
+ 
+book s
+ 
+they
+ 
+have
+ 
+read
+ 
+or
+ 
+plan
+ 
+to
+ 
+read,
+ 
+rate
+ 
+each
+ 
+book,
+ 
+and
+ 
+monit or
+ 
+their
+ 
+reading
+ 
+progress.
+ 
+Designed
+ 
+a
+ 
+user -friendly
+ 
+interface
+ 
+to
+ 
+log
+ 
+data
+ 
+while
+ 
+providing
+ 
+insigh tful
+ 
+visualiz ations
+ 
+of
+ 
+reading
+ 
+habits.
+  NON-A CADEMIC PROJECTS  
+●
+ autoTracc Developed and deplo yed a Streamlit app on the Web to automa te tracking attendance 
+and
+ 
+exam
+ 
+schedule,
+ 
+and
+ 
+calcula ting
+ 
+GPA
+ 
+and
+ 
+CGPA
+ 
+for
+ 
+the
+ 
+studen ts
+ 
+of
+ 
+PSG
+ 
+Tech
+ 
+by
+ 
+scraping
+ 
+the
+ 
+studen ts
+ 
+data
+ 
+from
+ 
+the
+ 
+colleg e’s
+ 
+studen t
+ 
+dashboar d
+ 
+website,
+ 
+using
+ 
+reques ts
+ 
+and
+ 
+beautifulsoup
+  
+libraries.
+  
+●
+ Calorit A simple calorie tracker website, built using vanilla Javascrip t and deplo yed on GitHub 
+Pages.
+ 
+A
+ 
+calorie
+ 
+report
+ 
+is
+ 
+gener ated
+ 
+based
+ 
+on
+ 
+user
+ 
+input
+ 
+to
+ 
+show
+ 
+the
+ 
+calories
+ 
+consumed
+ 
+and
+ 
+calories
+ 
+burned.
+ 
+Under
+ 
+developmen t.
+  
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+  
+●
+ Comple ted Google Advanced Data Analy tics Professional Certific ate from Cour sera. 
+●
+ Curr ently learning web developmen t from The Odin Project - an open sour ce self-learning curriculum. 
+●
+ 
+Activ ely
+ 
+playing
+ 
+for
+ 
+the
+ 
+PSG
+ 
+Tech
+ 
+Bask etball
+ 
+Team
+ 
+with
+ 
+Runner
+ 
+Ups’
+ 
+in
+ 
+the
+ 
+Anna
+ 
+Univ ersity
+ 
+Zone-IX
+ 
+Bask etball
+ 
+Tournamen t
+ 
+for
+ 
+consecutiv e
+ 
+years
+ 
+(2023,2024).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Varun
+ 
+Sithaarth
+ 
+KK,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ 
+the
+ 
+best
+ 
+of
+ 
+my
+ 
+knowledg e.
+  Place: Coimba tore 
+Date
+ 
+:
+ 
+26/01/2025.
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+(Varun
+ 
+Sithaarth
+ 
+KK)
+ 

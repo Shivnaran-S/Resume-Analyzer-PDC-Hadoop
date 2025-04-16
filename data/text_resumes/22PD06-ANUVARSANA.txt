@@ -1,0 +1,322 @@
+ ANUVARSANA K 
+22PD06 
+Gender                   Date of Birth                 Languag es known Email Mobile  Female 
+20th
+ 
+April
+ 
+2005
+ English, Tamil 22pd06@p sgtech.ac.in +91-63826-01396 
+ GitHub                             Anuv arsana_K  LinkedIn                          Anuv arsana_K 
+Addr ess
+ 2C, Valluv ar Thot tam, Nehru Street, 15, Velampala yam Tirupur -641652. 
+ OBJE CTIVE                                                                                                                       
+To obtain a position as a studen t intern from May 2025 to November 2025.
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+                      
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5-year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ SKILL SET
+  
+Languag es Python,C+ + 
+ 
+ 
+Platform
+ Windo ws,Linux 
+ 
+ 
+Tools
+ 
+and
+ 
+Technologies
+ PowerBI, Excel, Beautiful Soup 
+ AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+and
+ 
+Visualiz ation
+ 
+●
+ 
+Object
+ 
+Orien ted
+ 
+programming
+ 
+●
+ 
+Super vised
+ 
+and
+ 
+Unsuper vised
+ 
+Learning
+  
+ ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 7.39 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+State
+ 
+Boar d)
+ Vikas Vidy alaya Matricula tion Higher Secondar y School, Koolipala yam, Tirupur 
+2022
+  95.10 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+State
+ 
+Boar d)
+ Vikas Vidy alaya Matricula tion Higher Secondar y School, Koolipala yam, Tirupur 
+2020
+ 97.80 % 
+        
+
+NON-A CADEMIC PROJECTS                                                                                                                                                    
+●
+  Stock Mark et analy sis, Developed a Python Flask-based stock analy sis tool that fetches real-time stock prices using BeautifulSoup for web scraping. Enabled analy sis of key financial metrics and created interactiv e visualiz ations to provide actionable insigh ts into stock performance, enhancing user decision-making.  
+●
+ Covid Vaccina tion Registration, Implemen ted in Python that allows the user to register for Covid Vaccina tion according to their preference of vaccine, place and hospit al. User can also modif y or cancel, Other factors that involve in scheduling their vaccines are dates of first dose, and whe ther they had covid during the time interval. 
+ ACADEMIC PROJECTS                                                                                                                                                            
+  
+●
+ Heart Disease Prediction Model, Utiliz es a Support Vector Machine (SVM) model fine-tuned for high accur acy to predict the presence of heart disease. Implemen ted using Feder ated Learning, the model ensur es data privacy by enabling decen tralized training across multiple nodes, preser ving sensitiv e patient informa tion. 
+●
+  Google Docs Simula tor, A collabor ative platform for real-time documen t creation, editing ,  and sharing. Built with React.js, Material-UI, and Sock et.io for frontend and real-time communic ation, and Mong oDB for data persistence, it ensur es seamless, low-latency synchr onization across multiple user s in a distribut ed system.  
+●
+   Agrichain - Direct Mark et Access for Farmer s, Created a Database Manag emen t System orien ted project that enables farmer s to directly buy and sell their products without intermediaries with an interactiv e user interface. This project is developed using HTML ,  CSS, JavaScrip t, Boots trap for frontend and Python flask, SQLAlchem y for back end.   
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+         
+●
+ 
+Participa ted
+ 
+in
+ 
+the
+ 
+Virtual
+ 
+Stock
+ 
+Mark et
+ 
+League
+ 
+organized
+ 
+by
+ 
+the
+ 
+Finverse
+ 
+Club
+,
+ 
+in
+ associa tion with StockGr o. 
+●
+ Comple ted certific ation in Stock Mark et Basics  from Zerodha Varsity. 
+●
+ 
+Achie ved
+ 
+certific ation
+ 
+for
+ 
+the
+ 
+course
+ 
+comple tion
+ 
+of
+ 
+Python
+ 
+in
+ 
+udem y.
+ 
+●
+ 
+Participa ted
+ 
+in
+ 
+the
+ 
+Unhack
+ 
+Hack athon
+ 
+conduct ed
+ 
+by
+ 
+KLA
+,
+ 
+focusing
+ 
+on
+ 
+optimizing
+ semic onduct or processes. 
+●
+ 
+Proficien t
+ 
+Carna tic
+ 
+Singer
+ 
+and
+ 
+participa ted
+ 
+in
+ 
+various
+ 
+stage
+ 
+shows.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Anuv arsana
+ 
+K,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ the best of my knowledg e.                                                                                                                                                                                                           Place: Coimba tore   Date: 27/01/2025                                                                                                                   (Anuv arsana K)  

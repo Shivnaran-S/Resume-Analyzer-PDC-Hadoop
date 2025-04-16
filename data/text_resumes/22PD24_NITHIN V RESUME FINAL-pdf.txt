@@ -1,0 +1,107 @@
+NITHIN V  
+22PD24  
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile  
+GitHub   
+LinkedIn  Male  
+5th October 2004  
+English, Tamil  
+22pd24@psgtech.ac.in  
++91-97896 -37812  
+github.com/NithinVinukumar  
+linkedin.com/nithin -vinukumar   
+Address  
+4/5, West 2nd street,   
+Amarjothi A.S Nagar,  
+Kangeyam Road,   
+Tiruppur -641604  
+ 
+ 
+OBJECTIVE                                                                                                                        
+To obtain a position as a student intern from May 2025 to November 2025.  
+ 
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+ 
+ 
+SKILL  SET  
+ 
+Languages     Python, C++, R, SQL  
+Libraries and 
+Frameworks  Matplotlib, Plotly, Seaborn, Pandas, Keras, TensorFlow  
+Tools  Power BI, VSCode  
+ 
+ 
+ 
+ 
+AREAS  OF INTEREST  
+● Statistical Analysis & Visualization  
+● Machine Learning  ● Data Science  
+ 
+ 
+ 
+ACADEMIC  RECORD                                                                                                          
+ 
+● M.Sc Data Science  
+PSG College of Technology, Coimbatore      2022 -2027  
+8.2 CGPA  
+● XII (Higher secondary, TN HSC Board)  
+Bharathi Kids Kshethralaya, Tiruppur  2022  
+97.5 %  
+● X (SSLC, TN State board)  
+Bharathi Kids Kshethralaya, Tiruppur  2020  
+98.4 %  
+ 
+ 
+ 
+ 
+NON -ACADEMIC  PROJECTS                                                                                                                                       
+ 
+● Stock Market analysis  
+Market analysis  using Python Flask , a Design and Visualization based project to analyze 
+volume, market capitalization, moving average, volatility etc of shares.  
+ 
+● Thyroid Prediction Model  
+Developed a model to predict the presence of thyroid disease based on the given test data 
+with a good accuracy. Developed using R. 
+ 
+ 
+ACADEMIC  PROJECTS                                                                                                                                                              
+ 
+● AgriChain - Direct Market Access for Farmers   
+This Database Management System  oriented project enables farmers to directly buy and sell 
+their products without intermediaries with an interactive user interface. This project is 
+developed using HTML, CSS, JavaScript, Bootstrap  for frontend  and Python flask, 
+SQLAlchemy for backend.  
+ 
+● Statistical Estimation in Java  
+Estimation using  javax.swing . This Bayesian Parameter Estimation code is a Java application 
+designed for statistical analysis, particularly for estimating the parameters of a population 
+using Bayesian methods.  
+ 
+● Task Manager  
+Created a multi -use Task Manager  using advanced Linked List Data Structure concepts  in C++ 
+with different  functionalities such as add, complete, delete etc to manage and organize tasks.  
+ 
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                      
+ 
+● Radio Hub - Publicity & Live Co -ordinator  
+● Industrial Visit Representative (Sem 4)  
+● Air Rifle Shooter  
+● Product Presentation Designer  
+● 2017 & 2019 - Tiruppur’s Ilam Vignyani Award Winner       
+         
+DECLARATION   
+                                                                
+ I, Nithin V, do hereby confirm that the information given above is true to the best 
+of my knowledge.  
+ 
+Place: Coimbatore   
+Date : 31/08/2024                   (Nithin V)  

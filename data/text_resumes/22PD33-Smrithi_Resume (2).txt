@@ -1,0 +1,44 @@
+Smrithi L
+9080326502 |smrithi.mln@gmail.com |linkedin.com/in/smrithi |github.com/smrithi
+Education
+PSG College Of Technology, Coimbatore 7.70 CGPA
+M.Sc Integrated Data Science 2022 – 2027
+Sri Vageesha Vidhyashram Senior Secondary School, Tiruchirappalli 88.00
+XII (Higher Secondary, CBSE) 2020 – 2022
+Sri Akilandeswari Vidyalaya, Tiruchirappalli 93.00
+X (Senior Secondary, CBSE) 2008 – 2020
+Experience
+Data Science Intern May 2024 – June 2024
+Positive Integers Chennai, TN
+•Assisted in forecasting the number of offered calls for a company using Random Forest and SARIMA model ..
+•Acquired theoretical and practical knowledge on machine learning workflows
+•Demonstrated proficiency in Exploratory Data Analytics
+•Developed a Flask Web application to interpret and analyze customer’s behavior
+Technical Skills
+Languages : Python, C/C++, SQL, R
+Frameworks and Tools : Flask, PowerBI, Excel, Gephi, Git
+Libraries : pandas, NumPy, Matplotlib, Scikit-learn, Networkx
+Projects
+Explainable AI on EEG Dataset |Python
+•Developed an Explainable AI model to classify ADHD and Control patients using EEG data, incorporating
+Approximated Entropy to assess the complexity and regularity of behavioral patterns
+•Built and fine-tuned machine learning models
+•Leveraged SHAP and LIME to enhance model interpretability, providing actionable insights into predictions
+Astronomical Data Analysis |Python
+•This project focuses on classifying celestial objects and predicting galaxy redshifts using SDSS spectral data and
+astroML library
+•The analysis includes handling outliers, class imbalance with SMOTE, and feature extraction through PCA
+•Machine learning models like GMMBayes, SVM, Random Forest, Linear Regression were applied
+GymEase Software |Python, Flask, MySQL, HTML, CSS
+•Implemented using Flask and MySQL, this system streamlines the management of various administrative and user
+operational tasks, including member registration, attendance and performance tracking, along with equipment
+handling
+Social Spotlight Solutions |Python
+•This project analyzes the Deezer Europe Social Network dataset using social network analysis techniques
+•It uncovers hidden patterns through community detection, identifies influential users using metrics like centrality,
+and predicts future user connections with link prediction methods
+Extra Curricular Activities
+Management : Actively contributed to the administrative operations of the Radio Hub as a team member
+Writing and Communication : Head of the school’s Literary Club, participated and conducted various literary
+activities
+Singing : Proficient Carnatic Singer and participated in stage - shows

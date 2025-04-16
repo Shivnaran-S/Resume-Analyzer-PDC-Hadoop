@@ -1,0 +1,81 @@
+Gender
+Date of Birth
+Languages known
+Email
+Mobile
+Linkedin
+GitHubMale
+17th May 2004
+English, Tamil, Urdu
+22pd23@psgtech.ac.in
++91-63692-02355
+MOHAMED_AKLAMAASH
+MOHAMED_AKLAMAASH
+Address
+39/14D, Kendaiyur Road, Kattoor,
+Mettupalayam - 641305
+OBJECTIVE 
+To obtain a position as an intern for a period of six months from May 2025 to  
+November 2025.
+ACADEMIC QUALIFICATION   
+                      Currently  pursuing  3rd year  of  5  year  Integrated  M.Sc.  Data  Science  at  the  
+Department of Applied Mathematics and Computational Sciences, PSG College of Technology.
+SKILL SET
+Languages C++, Python, Javascript, Typescript, C
+Frontend ReactJS, NextJS
+Backend Node Js, Socket.io
+Platform Linux, Windows
+Tools Git, AWS, Github, VSCode, Tensorflow
+AREAS OF INTEREST
+●Full Stack Development
+●Deep Learning●Machine Learning
+●Operating Systems
+ACADEMIC RECORD  
+●M.Sc Data Science
+PSG College of Technology, Coimbatore    2022-Present
+7.982 CGPA
+●XII (Higher Secondary, State Board)
+Vidyaa Vikas Matric Higher Secondary School,
+Karamadai2022
+92.0 %
+●X (SSLC, State Board)
+Vidyaa Vikas Matric Higher Secondary School,
+Karamadai2020
+98.4 %
+Mohamed Aklamaash M. R.
+22PD23
+NON-ACADEMIC PROJECTS
+●MANAGEMONEYWITHAI  , is an advanced expense tracker built with Next.js, Docker, and  
+GeminiAI API. It offers intelligent budgeting insights, personalized recommendations, and  
+AI-powered analytics to streamline financial management. Users can analyze spending, get  
+savings  tips,  and  upload  transactions  via  images  for  added  convenience.  Docker  
+deployment ensures smooth performance and scalability.
+●BRUSH-O  , an intuitive drawing application developed with Next.js and TypeScript. Users 
+can create, edit, and manage drawings with features like undo, redo, and erase, fostering  
+creativity and idea nurturing.
+ACADEMIC PROJECTS  
+●STUBHUB  ,  a  ticketing  platform  built  with  Next.js,  Node.js,  TypeScript,  Docker,  and 
+Kubernetes. It follows the microservice architecture to ensure fault tolerant services. It  
+enables users to securely buy and sell tickets for events, offering features like interactive  
+seat maps, real-time notifications, and comprehensive event details.
+●SKIMLIT  ,  is a deep learning project designed to extract key information from medical  
+literature  using  advanced  natural  language  processing  techniques.  It  aims  to  assist  
+researchers and practitioners by summarizing and structuring critical insights efficiently.
+●EDUPREDICTOR  , a machine learning pipeline to forecast academic performance based on  
+behavioral and academic data, developed using CatBoost, the model achieved an accuracy  
+of 96% in identifying at-risk students. Additionally, detailed visualizations were created to  
+provide educators with actionable insights, helping them identify trends and implement  
+early intervention strategies to improve student outcomes.
+EXTRA-CURRICULAR ACTIVITIES AND ACHIEVEMENTS   
+●Received a Letter of Appreciation  from Dr. Subir Kumar Ghosh, Honorary Professor at ISI  
+Kolkata and President of ACSDM, for designing and maintaining the official website of  
+CALDAM2025. Recognized for creativity, attention to detail, and excellent execution in  
+delivering a seamless user experience . 
+●Achieved  Top 5 rankings in regional chess tournaments, highlighting advanced strategic  
+thinking and problem-solving abilities.
+DECLARATION
+  
+I, Mohamed Aklamaash M. R., do hereby confirm that the information given  
+above is true to the best of my knowledge.
+Place: Coimbatore 
+Date : 16/01/2025                (Mohamed Aklamaash M. R)

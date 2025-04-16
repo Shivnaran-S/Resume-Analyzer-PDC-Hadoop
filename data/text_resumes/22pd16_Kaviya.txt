@@ -1,0 +1,110 @@
+KAVIYA N S  
+22PD16  
+ Gender                   
+Date of Birth  
+Languages known                       
+Email  
+Mobile   
+Github  
+LinkedIn  Female  
+21st May 2004  
+English, Tamil  
+22pd16@psgtech.ac.in  
++91-8248110877  
+github.com/kaviya -ns 
+linkedin.com/in/kaviya -ns 
+ 
+ 
+  Address  
+  No. 4 3, Phase -2, Shri Krishna Nagar , Adavathur East,  
+  Allithurai, Santhapuram ,Trichy - 620102 . 
+  
+ 
+OBJECTIVE                                                                                                                        
+To obtain a position as an intern for a period of six months from May 2025 to 
+November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+SKILL  SET  
+ 
+Languages  Python, C++, Java  
+Libraries and Frameworks  Pandas, Scikit -learn , Flask ,TensorFlow  
+Tools  PowerBI  
+ 
+AREAS  OF INTEREST  
+● Supervised learning  
+● Object -Oriented Programming  ● Data Analytics and Visualization  
+  
+ACADEMIC  RECORD                                                                                                          
+ 
+● M.Sc Data Science  
+PSG College of Technology, Coimbatore      2022 -2027  
+6.54  CGPA  
+● XII (Higher secondary, CBSE)  
+Kam ala Niketan Montessori  School,  Trichy  2022  
+ 84.80 %  
+● X (CBSE)  
+Kamala Niketan Montessori School, Trichy  2020  
+91.80 %  
+ 
+ 
+ 
+ 
+
+NON -ACADEMIC  PROJECTS                                                                                                                                                              
+      
+● HotelierPro  
+A Python -based hotel management system with a tkinter  GUI for easy user interaction, 
+allowing staff to manage reservations, check -ins, and room assignments. The 
+application integrates with an SQL database to store and retrieve guest information, 
+room detai ls, and booking records efficiently.  
+● Meme Generato r 
+Developed a Java  application built using the Swing  frame work, enables us ers to 
+create and customize memes effortlessly. The application leverages Graphics2D  for 
+high -quality text rendering and provides an intuitive, slider -based customization 
+interface.  
+● SimpleChain  
+Designed and implemented a blockchain  prototype to demonstrate core 
+functionalities, including block creation, cryptographic hashing ( MD5 ), and integrity 
+verification. Managed transaction records with a genesis block to maintain data 
+consistency. Developed a user -friendly interface using Flask  and HTML  for input 
+collection and interaction  
+      
+ACADEMIC  PROJECTS                                                                                                                                                              
+ 
+● AskPDF  
+Developed an interactive document question -answering web application using 
+Streamlit  and Pinecone , enabling users to upload PDFs, query document content, 
+retrieve precise answers using semantic search. It also generates context -aware 
+summaries with Hugging Face  models, enhancing content comprehension.  
+● Price Forecaster  
+Developed a time series forecasting project, including web scraping, data cleaning, and 
+exploratory analysis to uncover trends and patterns. Built and optimized machine 
+learning models such as Random Forest  and Decision Trees , as well as statistical models 
+like ARIMA , to solve real -world forecasting challenges . Evaluated model performance 
+using metrics such as Mean Absol ute (MAE)  and Mean squared Error (MSE) ensuring 
+accuracy and reliability in predictions.  
+● Smart KeyBoard  
+A C++ program  which implements a simple spell -checking functionality utilizing a Trie 
+data structure. It prompts users to input a word, suggests corrections if misspelled, and 
+allows users to add new words to the dictionary.  
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                      
+ 
+● Completed courses Machine Learning , Natural Language Processing  from 
+Deeplearning.ai . 
+● Designed logos and promotional posters for ' Login ', an international technical 
+symposium and ' Thiran ’, an intra -collegiate event.  
+ 
+      
+DECLARATION   
+                                                                
+ I, Kaviya N S, do hereby confirm that the information given above is true to the 
+best of my knowledge.  
+ 
+Place: Coimbatore   
+Date :  17/01/2025          (Kaviya N S)
+                  

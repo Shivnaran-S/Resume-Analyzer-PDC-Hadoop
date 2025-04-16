@@ -1,0 +1,730 @@
+SHIVNARAN S 22PD32 
+Gender                   Date of Birth              Languag es known Email Mobile  GitHub      LinkedIn Male 
+2nd
+ 
+May
+ 
+2004
+ English, Tamil 22pd32@p sgtech.ac.in +91-74187-68331  Shivnar an S | GitHub  Shivnar an S | LinkedIn  
+Addr ess
+ 17, Annamalaik ottai, Ammank ovil (Post), Sivagiri, Erode, Tamil Nadu – 638109. 
+ OBJE CTIVE                     
+                         To obtain a position as an intern for a period of six mon ths from May 2025 to 
+November
+ 
+2025.
+  
+ACADEMIC
+ 
+QUALIFICA TION
+ 
+                                          
+ 
+     
+ 
+ 
+Curr ently
+ 
+pursuing
+ 
+3
+rd
+ 
+year
+ 
+of
+ 
+5
+ 
+year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+     
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+SKILL SET
+   
+AREAS OF INTERE ST
+ 
+●
+ 
+Super vised
+ 
+and
+ 
+Unsuper vised
+ 
+Learning
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+and
+ 
+Algorithms
+ 
+●
+ 
+Database
+ 
+Manag emen t
+ 
+System
+ 
+●
+ 
+Object
+ 
+Orien ted
+ 
+Programming
+ 
+ ACADEMIC RECORD                                                                                                         
+ 
+●
+ 
+M.Sc
+ 
+Data
+ 
+Science
+                                                           PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 8.56 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+CBSE)
+ Sri Chait anya Techno School, Coimba tore 
+2022
+ 92.6 % 
+●
+ 
+X
+ 
+(SSLC,
+ 
+CBSE)
+ The B V B School, Erode 
+2020
+ 90.6 %  
+INDUS TRY BASED PROJECT EXPERIENCE                                                                                                      
+ 
+ 
+●
+ Cloud Assert
+ 
+|
+ 
+Data
+ 
+Analy st
+ 
+Intern
+                                      
+(
+May
+ 
+15,
+ 
+2024
+ 
+to
+ 
+June
+ 
+17,
+ 
+2024
+)
+ Took up the position of a Data Analy st during the summer internship at Cloud Assert 
+Technologies
+ 
+India
+ 
+Private
+ 
+Limit ed,
+ 
+Coimba tore.
+ 
+Utiliz ed
+ 
+data
+ 
+from
+ 
+Azure
+ 
+Kuberne tes
+ 
+Service
+ 
+and
+ 
+Mong oDB
+ 
+to
+ 
+create
+ 
+batch
+ 
+task
+ 
+configur ations
+ 
+and
+ 
+perform
+ 
+data
+ 
+aggregation
+ 
+and
+ 
+Visualiz ed
+ 
+Cloud
+ 
+Costs
+ 
+using
+ 
+dashboar ds
+ 
+for
+ 
+Cloud
+ 
+Cost
+ 
+Analy sis
+.
+  Languag es C++, Python, SQL 
+ 
+ 
+Libraries
+ 
+and
+ 
+Frame work
+ 
+pandas,
+ 
+nump y
+ 
+and
+ 
+djang o
+ 
+ 
+ 
+Platform
+ 
+and
+ 
+Tools
+ Windo ws, Visual Studio Code and Oracle 
+
+NON-A CADEMIC
+ 
+PROJECTS
+ 
+        
+●
+ VOVA  Voice Over Vision Assis tant for visually challeng ed, integrates Whisper , LLaMA 3, Gemini 
+models
+ 
+from
+ 
+the
+ 
+Groq
+ 
+and
+ 
+Google’ s
+ 
+Gener ative
+ 
+AI
+ 
+APIs
+ 
+to
+ 
+process
+ 
+user
+ 
+queries
+ 
+in
+ 
+the
+ 
+form
+ 
+of
+ 
+voice
+ 
+commands
+ 
+and
+ 
+webcam-c aptured
+ 
+imag es
+ 
+and
+ 
+responds
+ 
+through
+ 
+voice.
+  
+●
+ Sovereign Strategies: Conquer the Boar d Developed a console-based chess game in C++ supporting two-pla yer gamepla y. The 
+program
+ 
+implemen ts
+ 
+core
+ 
+functionalities
+ 
+of
+ 
+chess
+ 
+such
+ 
+as
+ 
+piece
+ 
+movemen t,
+ 
+capturing ,
+ 
+and
+ 
+checkma te
+ 
+detection.
+ 
+ 
+ACADEMIC PROJECTS                                                                                                                                                            
+  
+●
+ Cloud at AI sky Cloud environmen t is modeled as a Mark ov Decision Process (MDP) to optimiz e 
+Admission
+ 
+Control
+ 
+using
+ 
+Dynamic
+ 
+Programming
+ 
+(Bellman
+ 
+equa tion).
+ 
+Additionally ,
+ 
+Load
+ 
+Balancing
+ 
+is
+ 
+performed
+ 
+using
+ 
+the
+ 
+Greedy
+ 
+appr oach
+ 
+for
+ 
+optimal
+ 
+resour ce
+ 
+utiliz ation.
+  
+●
+ Golden Time Machine This Time Learning Machine takes us from past and current gold prices to futur e gold 
+prices
+ 
+via
+ 
+ARIMA
+,
+ 
+LSTM
+ 
+and
+ 
+Prophe t
+ 
+models.
+ 
+Gold
+ 
+prices
+ 
+in
+ 
+Coimba tore
+ 
+from
+ 
+Augus t
+ 
+2021
+ 
+to
+ 
+Januar y
+ 
+2025
+ 
+were
+ 
+web-scr aped
+ 
+for
+ 
+forecasting.
+  
+●
+ Discover and Disrup t Disease Spatial, Tempor al and Gene tic data on Rabies are analy zed and visualiz ed to study disease 
+spread
+ 
+patterns
+ 
+using
+ 
+Statistical
+ 
+techniques
+ 
+and
+ 
+detect
+ 
+outbr eak
+ 
+clusters
+ 
+through
+ 
+Graph
+ 
+Theor y
+ 
+by
+ 
+leveraging
+ 
+the
+ 
+capabilities
+ 
+of
+ 
+R
+ 
+programming
+ 
+and
+ 
+the
+ 
+VIME S
+ 
+pack age.
+   
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+ 
+ 
+ 
+ 
+ 
+               
+  
+●
+ 
+Capable
+ 
+coder
+,
+ 
+having
+ 
+secur ed
+ 
+prizes
+ 
+in
+ 
+hack athons
+.
+ 
+●
+ 
+Activ e
+ 
+contribut or
+ 
+to
+ 
+Datathon
+,
+ 
+Thiran
+,
+ 
+DataQues t
+ 
+(Data
+ 
+Science
+ 
+events).
+ 
+●
+ 
+Participa ted
+ 
+in
+ 
+coding
+ 
+events
+ 
+conduct ed
+ 
+by
+ 
+CodingClub
+ 
+PSGC T.
+ 
+●
+ 
+Radio
+ 
+Jock ey
+ 
+at
+ 
+Radio
+ 
+Hub,
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology
+ 
+hosting
+ 
+engaging
+ 
+live
+ 
+programs.
+ 
+●
+ 
+Comper ed
+ 
+events
+ 
+with
+ 
+articula te
+ 
+and
+ 
+engaging
+ 
+hosting.
+ 
+●
+ 
+Skilled
+ 
+orator
+ 
+with
+ 
+interactiv e
+ 
+and
+ 
+impr essiv e
+ 
+presen tation
+ 
+skills.
+ 
+●
+ 
+Participa ted
+ 
+in
+ 
+Chennai
+ 
+Model
+ 
+Unit ed
+ 
+Nations
+ 
+XIII
+ 
+held
+ 
+at
+ 
+Americ an
+ 
+Interna tional
+ 
+School
+ 
+Chennai,
+ 
+showcasing
+ 
+exceptional
+ 
+collabor ative
+ 
+skills.
+  
+DECLARA TION
+ 
+                                                                 
+ 
+I,
+ 
+Shivnar an
+ 
+S,
+ 
+do
+ 
+hereby
+ 
+confirm
+ 
+that
+ 
+the
+ 
+informa tion
+ 
+given
+ 
+above
+ 
+is
+ 
+true
+ 
+to
+ 
+the
+ 
+best
+ 
+of
+ 
+my
+ 
+knowledg e.
+  Place: Coimba tore   
+Date
+ 
+:
+ 
+26/01/2025
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+       
+(Shivnar an
+ 
+S)
+ 

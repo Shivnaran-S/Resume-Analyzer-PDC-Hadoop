@@ -14,5 +14,6 @@ def upload_to_hdfs():
     wrapped_command = f'bash -c "{inner_command}"'
     run_in_wsl(wrapped_command)
 
+    print("Upload Complete")
 if __name__=="__main__":
     upload_to_hdfs()

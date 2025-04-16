@@ -1,0 +1,331 @@
+   SAMRIDHAA R 
+    
+22PD29 
+OBJE CTIVE
+                                                                                                                         
+To obtain a position as a studen t intern from May 2025 to November 2025.
+   
+ACADEMIC
+ 
+QUALIFICA TION
+  
+ 
+                                          
+  
+ 
+ 
+ 
+ 
+Curr ently
+ 
+pursuing
+ 
+3rd
+ 
+year
+ 
+of
+ 
+5-year
+ 
+Integrated
+ 
+M.Sc.
+ 
+Data
+ 
+Science
+ 
+at
+ 
+the
+ 
+Departmen t
+ 
+of
+ 
+Applied
+ 
+Mathema tics
+ 
+and
+ 
+Comput ational
+ 
+Sciences
+ 
+at
+ 
+PSG
+ 
+Colleg e
+ 
+of
+ 
+Technology .
+ 
+ 
+ 
+SKILL
+ SET
+   
+   
+  Languag es   Python, C++, C, SQL 
+Libraries and Frame works NetworkX, BeautifulSoup, NLTK, Streamlit 
+Tools   Gephi, Figma 
+   AREAS OF INTERE ST
+ 
+●
+ 
+Data
+ 
+Analy tics
+ 
+and
+ 
+Visualiz ation
+ 
+●
+ 
+Data
+ 
+Structur es
+ 
+and
+ 
+Algorithms
+ 
+●
+ 
+Super vised
+ 
+Learning
+  
+ACADEMIC QUALIFICA TION 
+  
+●
+ 
+M.Sc
+ 
+Data
+  
+Science
+ PSG Colleg e of Technology , Coimba tore 
+    
+2022-2027
+ 8.74 CGPA 
+●
+ 
+XII
+ 
+(Higher
+ 
+secondar y,
+ 
+State
+ 
+boar d)
+ Avila Convent Matric. Hr. Sec School, Coimba tore 
+2022
+ 97.5% 
+●
+ 
+X
+ 
+(SSLC,
+ 
+State
+ 
+boar d)
+ Avila Convent Matric. Hr. Sec School, Coimba tore 
+2020
+ 91 % 
+INDUS TRY-BASED PROJECT EXPERIENCE   
+                                                                                                                                                     
+    
+The Yellow Network | Junior Data Analy st                                                    
+ (May 2024-July 2024) 
+Worked as a summer intern at The Yellow Network, a division of PSG STEP, contributing to the 
+data
+ 
+analy tics
+ 
+team.
+ 
+Automa ted
+ 
+web
+ 
+data
+ 
+scraping
+ 
+and
+ 
+cleaning
+ 
+using
+ 
+BeautifulSoup
+ 
+and
+ 
+Selenium
+,
+ 
+with
+ 
+task
+ 
+scheduling
+ 
+via
+ 
+Cron
+ 
+jobs,
+ 
+ 
+utiliz ed
+ 
+Tesser actOCR
+ 
+for
+ 
+imag e
+ 
+text
+ 
+processing.
+ 
+  
+   Gender                    Date of Birth             Languag es known  Email  Mobile  Github     LinkedIn                    Samridhaa R 
+28th
+ 
+September
+ 
+2004
+ English, Tamil 22pd29@p sgtech.ac.in +91-9843107781 github.c om/ samridhaa linkedin.c om/ samridhaa  
+ 
+Addr ess
+  19,MMR Garden,Rajiv Gandhi Street,  Telungupala yam, Coimba tore-641039. 
+
+NON-A CADEMIC
+ 
+PROJECTS
+ 
+       
+ 
+●
+ Tamil-E : Tamil Brahmi Scrip t Transcriber Developed a CNN model with 3 convolutional layers for Tamil Brahmi recognition, enabling classific ation across 325 char acters. Built an augmen ted dataset and implemen ted imag e segmen tation using Otsu’ s thresholding and connect ed componen t analy sis. Created a Streamlit interface to transla te scrip t imag es into modern Tamil text.  
+ACADEMIC
+ 
+PROJECTS
+                                                                                                                                                            
+ 
+  
+ 
+  
+●
+ Credit Card Fraud Detection Developed a fraud detection model on a SMO TE-balanced dataset using XGBoos t and Random Forest with Homomorphic Encr yption. Applied OPE for intermedia te comparisons and Paillier encr yption on leaf nodes to keep predictions encr ypted. Decr ypted predictions using Paillier's private key for secur e analy sis. Deplo yed the encr ypted model via Streamlit.  
+●
+ Social Media Data Analy sis on Environmen tal Sustainability This project analy zes real-w orld Twitter data to assess public sentimen t on environmen tal sustainability using BERT-based sentimen t analy sis from Hugging Face Transformer s. Tweets are pre-processed with NLTK. The study uncovers trends and challeng es related to human-en vironmen t interactions, highligh ting opportunities for sustainability .  
+●
+ Music Player This project is a music player applic ation built in C++ that allows user s to create accounts, log in, and manag e a playlist of songs. It utiliz es file handling and doubly linked lists to add, play, dele te, sear ch, and displa y songs in the playlist. The project also integrates the Windo ws multimedia API (mms ystem.h) to play audio files in WAV forma t and uses structur es for storing song details efficien tly. 
+●
+ Video Player This project is a multimedia video player developed in Java using JavaFX and SceneBuilder. It supports media playback with features like volume control, playback speed adjus tmen t, aspect ratio customiz ation, and video navigation using slider s. The applic ation integrates media controls through Java’s MediaPla yer and MediaVie w classes. It utiliz es FXML for UI design and event handling , ensuring a seamless media experience. 
+   
+EXTRA -CURRICULAR
+ 
+ACTIVITIE S
+ 
+AND
+ 
+ACHIEVEMENT S
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+               
+  
+  
+●
+ 
+Activ ely
+ 
+participa ted
+ 
+in
+ 
+camp s
+ 
+and
+ 
+social
+ 
+volun teer
+ 
+activities
+ 
+as
+ 
+a
+ 
+member
+ 
+of
+ 
+BSGIndia
+.
+ 
+●
+ 
+Engaged
+ 
+in
+ 
+glass
+ 
+pain ting
+ 
+showcasing
+ 
+creativity .
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+    DECLARA TION    
+                                                                 I, Samridhaa R, do hereby confirm that the informa tion given above is true to the best of my knowledg e. 
+ Place: Coimba tore   
+Date
+ 
+:
+ 
+19/01/2025
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+       
+(Samridhaa
+ 
+R)
+ 
+ 

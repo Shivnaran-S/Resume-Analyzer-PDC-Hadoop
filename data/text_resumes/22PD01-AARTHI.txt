@@ -1,0 +1,77 @@
+ 
+AARTHI  N J 
+22PD0 1 
+Gender    Female  
+Date of Birth   26th Febr uary 2005 
+Languages known  English, Tamil  
+Email    22pd0 1@psgtech.ac.in  
+Mobile    +91-9943986878  
+Github                 github.com/Aarthi2005   
+LinkedIn                 linkedin.com/in/aarthi -n-j 
+ 
+Address  
+90-c, Shanmugarajapuram,  Selvapuram,  
+Coimbatore -26. 
+OBJECTIVE                                                                                                                                                               
+ To obtain a position as a  student  intern from May 2025 to November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                 Currently pursuing 3rd year of 5 year Integrated M.Sc. Data Science at the Department 
+of Applied Mathematics and Computational Sciences in PSG College of Technology , 
+Coimbatore . 
+ 
+SKILL  SET 
+Languages  Python, C ++ 
+Libraries and framework  Flask , Pandas,  Seaborn  
+Tool  Power BI , Excel  
+ 
+ 
+AREAS  OF INTEREST  
+• Data Analytics and Visualizatio n                                 • Supervised Learning  
+ACADEMIC  RECORD                                                                                                          
+• M.Sc Data Science  
+PSG College of Technology, Coimbatore      2022 -2027  
+6.87  CGPA  
+• XII (Higher secondary, State board)  
+Sri Sowdeswari Vidyalaya , Coimbatore  2022  
+94.17 % 
+• X (SSLC, State board)  
+Sri Sowdeswari Vidyalaya , Coimbatore  2020  
+89.40 % 
+ 
+ 
+  
+ 
+NON -ACADEMIC  PROJECTS         
+ 
+• E-LIBRARY MANAGEMENT SYSTEM  is designed and implemented as a dynamic solution 
+leveraging HTML and CSS for an intuitive frontend interface, PHP for backend logic and 
+server -side functionalities, and MySQL  for secure and efficient database operations. 
+The system incorporates dedicated panels for administrators, students, and new user 
+registrations, facilitating streamlined access, resource allocation, and user management.  
+ACADEMIC  PROJECTS                                                                                                                                                              
+ 
+• LEGAL DOCUMENT CLASSIFICATION AND SUMMARIZATION  is developed as a robust 
+pipeline using Legal BERT  for document classification and BART  models for text 
+summarization. The system processes diverse legal documents such as contracts, land 
+records, and judgments to accurately categorize them and generate concise, entity -rich 
+summaries for enhanced understanding and quick retrieval of relevant  information.  
+• NATURAL DISASTER PREDICTION  is developed as a comprehensive machine learning 
+framework that addresses data imbalance using SMOTE , ensures data privacy through 
+Laplacian noise for differential privacy, and enhances interpretability with LIME  and 
+SHAP . The system leverages Random Forest  and XGBoost  classifiers to achieve robust 
+predictive accuracy, while providing valuable insights into the critical factors contributing 
+to disaster  events.   
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                     
+ 
+● Certified in Introduction to Data Science  by Cisco.  
+● Certified in Front -End Development  by GreatLearning.   
+  
+          
+DECLARATION  
+ I, Aarthi N J , do hereby confirm that the information given above is true to the 
+best of my knowledge.  
+Place: Coimbatore            
+Date : 20/11/2024              (Aarthi N J ) 
+ 

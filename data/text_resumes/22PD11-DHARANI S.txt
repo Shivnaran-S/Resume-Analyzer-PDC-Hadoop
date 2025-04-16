@@ -1,0 +1,104 @@
+DHARANI S  
+22PD11  
+Gender                   
+Date of Birth                        
+Languages known  
+Email  
+Mobile   
+GitHub      
+LinkedIn  Female  
+29th November 2004  
+Tamil, English  
+22pd11@psgtech.ac.in  
++91-63823 -18658  
+  github.com/DharaniSowmiyan   
+  linkedin.com/in/dharanisowmiyan   
+ Address  
+364/M2, Nethaji Nagar, Vengikkal,  
+Tiruvannamalai, Tamil Nadu – 638109.  
+ 
+OBJECTIVE                                                                                                                        
+         To obtain a position as an intern for a period of six months from May 2025 to 
+November 2025.  
+ 
+ACADEMIC  QUALIFICATION                                             
+                       Currently pursuing 3rd year of 5 -year Integrated M.Sc. Data Science at the 
+Department of Applied Mathematics and Computational Sciences at PSG College of Technology.  
+ 
+SKILL  SET  
+ 
+Languages   C++,  Python  
+Libraries and Frameworks  TensorFlow,  Streamlit , OCR  
+Tools  Power BI, JavaFX scene builder  
+ 
+AREAS  OF INTEREST  
+● Computer Networks  
+● Data Analytics  ● Supervised Learning  
+● Operating System  
+ 
+ 
+ACADEMIC  RECORD                                                                                                          
+ 
+● M.Sc. Data Science  
+PSG College of Technology, Coimbatore      2022 -Present  
+ 7.61 CGPA  
+● XII (Higher secondary, State Board)  
+SRGDS Matric. Hr. Sec School, Tiruvannamalai  2022  
+95.16%  
+● X (SSLC, State board)  
+Sishya Matric. Hr. Sec School, Tiruvannamalai  2020  
+95.6 %  
+ 
+ 
+  
+
+ 
+NON -ACADEMIC  PROJECTS   
+       
+• Google  Docs-simulation  
+This collaborative writing and editing project , enabling real -time document creation, 
+editing, and sharing. Built with React.js, Material -UI, and Socket.io  for frontend and real -
+time communication, and MongoDB for data persistence, it ensures seamless, low -latency 
+synchronization across multiple users in a distributed system.  
+• Social Media Data A nalysis 
+This project analyzes social media data to explore public sentiment on environmental 
+sustainability. Tweets are processed using BERT -based sentiment analysis to uncover 
+opinions and trends. Various analysis measures were performed to reveal human -
+environment interactions, opportunities, and challenges in sustainability discourse.  
+ 
+ACADEMIC  PROJECTS                                                                                                                                                              
+ 
+• Image Analysis with YOLOv8 and OCR  
+ Developed an object detection and text recognition system using YOLOv8 , Keras OCR on 
+subset of COCO dataset. Integrated the models into a Streamlit web application for real -
+time image input and processing.  
+ 
+• Spam Detection  
+Developed a privacy -preserving email spam detection system using Federated Learning  to 
+train models across decentralized data sources without sharing raw data. Implemented 
+Natural Language Processing techniques for feature extraction and classification. Enhanced 
+data privacy and scalability in detecting spam across diverse user environme nts. 
+ 
+• Music Player  
+Developed this project based on data structures concept doubly linked list   which is used 
+to play the music files in wav format further it includes the features which allows the users 
+to create a playlist, add, delete, search and list the music available in the playlist.  
+ 
+EXTRA -CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS                      
+ 
+● Sports: Badminton, Handbal l-Demonstrating teamwork, agility and sportsmanship through 
+competitive play.  
+● Pencil Sketching -Showcasing creativity and attention to detail through expressive artwork.  
+● Publicity team member, Radio hub PSGCT -Contributed to publicity vertical by delivering 
+public speeches & designing Canva posters.    
+         
+DECLARATION   
+                                                                
+ I, Dharani S, do hereby confirm that the information given above is true to the 
+best of my knowledge.  
+ 
+ 
+ 
+Place: Coimbatore          
+Date: 31/08/2024                                                                                                                  (Dharani S)
+      
