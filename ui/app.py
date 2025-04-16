@@ -6,11 +6,11 @@ st.title("📄 Resume Uploader")
 
 
 # ✅ Automatically start Hadoop services
-#if "hadoop_started" not in st.session_state:
-#    with st.spinner("🚀 Starting Hadoop services..."):
-#        subprocess.run(["wsl", "bash", "-c", "sudo -u hadoop /home/hadoop/hadoop-3.3.6/sbin/start-dfs.sh"])
-#        subprocess.run(["wsl", "bash", "-c", "sudo -u hadoop /home/hadoop/hadoop-3.3.6/sbin/start-yarn.sh"])
-#    st.session_state.hadoop_started = True
+if "hadoop_started" not in st.session_state:
+    with st.spinner("🚀 Starting Hadoop services..."):
+        subprocess.run(["wsl", "bash", "-c", "sudo -u hadoop /home/hadoop/hadoop-3.3.6/sbin/start-dfs.sh"])
+        subprocess.run(["wsl", "bash", "-c", "sudo -u hadoop /home/hadoop/hadoop-3.3.6/sbin/start-yarn.sh"])
+    st.session_state.hadoop_started = True
 
 uploaded_files = st.file_uploader("Upload PDF Resumes", type="pdf", accept_multiple_files=True)
 
